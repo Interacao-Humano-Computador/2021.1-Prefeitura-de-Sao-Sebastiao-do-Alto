@@ -1,3 +1,4 @@
 - [Introdução](introducao)
 - Projeto
-  - [Termo de Abertura do Projeto](docs/proj/tchola.md)
+  - [Planejamento](docs/proj/planejamento.md)
+  - [Processo de Design](docs/proj/processoDedesign.md)

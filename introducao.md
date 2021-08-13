@@ -11,7 +11,38 @@ Esse projeto, tem como objetivo fazer uma análise sobre o website da prefeitura
 
 ## Equipe
 
-- Gabriel Avelino
-- Ítalo Serra
-- Pedro Lima
-- Philipe Serrafim
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4 container-img">
+        <img src="./assets/img/time/gabrielavelino.jpg" alt="..." class="img-thumbnail image">
+            <div class="middle">
+              <div class="text">
+                <a href="https://github.com/gabrielavelino">Gabriel Avelino</a>
+              </div>
+            </div>
+    </div>
+    <div class="col-sm-4 container-img">
+      <img src="./assets/img/time/70165759.png" alt="..." class="img-thumbnail image">  
+          <div class="middle">
+            <div class="text">
+            <a href="https://github.com/italofernandes13">Ítalo Serra</a>
+            </div>
+          </div>
+    </div>
+    <div class="col-sm-4 container-img">
+    <img src="./assets/img/time/pedrolima.jpg" alt="..." class="img-thumbnail image">
+        <div class="middle">
+          <div class="text">
+          <a href="https://github.com/PedroLimass">Pedro Lima</a>
+          </div>
+        </div>
+        </div>
+    <div class="col-sm-4 container-img">
+    <img src="./assets/img/time/serafim.jpg" alt="..." class="img-thumbnail image">
+        <div class="middle">
+          <div class="text">
+          <a href="https://github.com/philipeserafim">Philipe Serrafim</a>
+          </div>
+        </div>
+        </div>
