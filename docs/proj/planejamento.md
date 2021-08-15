@@ -18,6 +18,27 @@ A equipe escolheu o site da prefeitura de [São Sebastião do Alto](http://ssalt
 ![image info](../../assets/img/logo-iphan.png ':size=200')| [Iphan](http://portal.iphan.gov.br) | O site do Instituto do Patrimônio Histórico e Artístico Nacional é uma autarquia federal do Governo que busca centralizar  de informações até editais relacionados a concursos e licitacoes e contratos|
 ![image info](../../assets/img/mpu-logo.jpg ':size=50')| [Ministério Público da União](http://www.mpu.mp.br) | O Site do Ministério Público da União é um site do governo que visa a passar informações sobre o concusos internos e externos e viabilizar documentos e Publicações de certas portarias.|
 
+## Cronograma
+
+<p align = "justify"> &emsp;&emsp; O cronograma do projeto foi realizado com base nas datas descritas, presentes no plano de ensino de IHC (Interação Humano Computador), e possui a finalidade de ajudar o grupo a se organizar e realizar as atividades dentro do prazo limite.</p>
+
+### Entregas
+|Etapas|Título|Data Prevista|Descrição|
+|:-:|:-:|:-:|:-:|
+|I|Entrega do Planejamento| 16/08 | Planejamento do projeto  da disciplina |
+|II|Análise de Requisitos|28/08| Perfil do usuário, Personas e Análise de tarefas |
+|III|Análise de Requisitos| 04/09 | Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo| 
+|IV|Design, Avaliação e Desenvolvimento Ágil|08/09 | Planejamento da Avaliação e do relato dos resultados da avaliação do Storyboard e Análise de tarefas | 
+|V|Design, Avaliação e Desenvolvimento Ágil| 20/09| Relato dos resultados do Story Board, Análise de tarefas e o Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel |
+|VI|Design, Avaliação e Desenvolvimento Ágil| 02/10 | Relato dos resultados da avaliação do protótipo de baixa fidelidade e Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade | 
+|VII|Verificação dos artefatos| 04/10 | Verificar os artefatos construídos durante o projeto|
+|VIII|Projeto Final| 20/10 | Desenvolver a apresentação final do projeto |
+
+<center>
+<figcaption>Tabela 1 - Cronograma de atividades</figcaption>
+</center>
+
+
 ## Ferramentas
 
   **Ferramenta** | **Nome** | **Descrição**
@@ -32,3 +53,8 @@ A equipe escolheu o site da prefeitura de [São Sebastião do Alto](http://ssalt
 ![image info](../../assets/img/figma.png ':size=50')|Figma | Ferramenta voltada para os prototipos.|
 
 
+## Versionamento
+
+|Data|Versão|Alteração|Responsável(eis)|
+|:--:|:----:|:-------:|:---:|
+| 12/08/2021 | 1.0 | Criação do documento Cronograma| Gabriel Avelino 
