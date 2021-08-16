@@ -1,6 +1,11 @@
 
 # Planejamento do Projeto
 
+## Metodologia Ágil
+### XP Extreme Programming
+
+Nosso grupo optou por utilizar as metodologias ágeis como o XP Extreme Programming devido a sua simplicidade, e priorizando acima de tudo a comunicação entre a equipe e sua organização. Dessa forma é estipulado entregas semanais, previamente decididas em reuniões semanais, em que cada participante é delegado uma função e são decididas as tarefas de todos os membros. Seguindo os princípios do Manifesto Ágil, que defende o planejamento adaptativo por meio de Inteligência Coletiva, nosso time se organiza e focados na melhor maneira de desenvolver o projeto.
+
 ## Escolha do site
 A equipe escolheu o site da prefeitura de [São Sebastião do Alto](http://ssalto.rj.gov.br) para o projeto da matéria de Interação Humano-Computador. O site apresenta pontos que necessitam de melhora, como é um site informativo é perceptível a falha na hierarquia de informações entre funcionalidades e outros pontos que iremos apresentar ao longo do projeto.
 
@@ -11,6 +16,7 @@ A equipe escolheu o site da prefeitura de [São Sebastião do Alto](http://ssalt
  | ![image info](../../assets/img/logo-detran.png ':size=50') |      [Detran DF](http://www.detran.df.gov.br)       | O site do Detran DF é do tipo governamental que busca passar informações sobre o  assuntos vinculados ao trânsito do Distrito Federal assim como viabilizar serviços.                                   |
  | ![image info](../../assets/img/logo-iphan.png ':size=200') |         [Iphan](http://portal.iphan.gov.br)         | O site do Instituto do Patrimônio Histórico e Artístico Nacional é uma autarquia federal do Governo que busca centralizar  de informações até editais relacionados a concursos e licitações e contratos |
  |  ![image info](../../assets/img/mpu-logo.jpg ':size=50')   | [Ministério Público da União](http://www.mpu.mp.br) | O Site do Ministério Público da União é um site do governo que visa a passar informações sobre o concursos internos e externos e viabilizar documentos e Publicações de certas portarias.               |
+ |  ![image info](../../assets/img/infoSaude.jpg ':size=50')  |  [Info-Saúde DF](https://vacina.saude.df.gov.br/)   | O site InfoSaúde-DF é um site do GDF voltado para o agendamento de vacinação para pessoas com comorbidades.                                                                                             |
 <figcaption>Tabela 1 - Sites analisados</figcaption>
 
 ## Cronograma
@@ -50,6 +56,12 @@ O desenvolvimento das atividades e dos artefatos relacionados à cada entrega se
   |         ![image info](../../assets/img/figma.png ':size=50')          |       Figma        | Ferramenta voltada para os protótipos.                                    |
 <figcaption>Tabela 3 - Ferramentas utilizadas</figcaption>
 
+### Bibliografias
+
+  Integrando XP as principais metodologias ágeis. **DevMedia**, 2019.
+  Disponível em: <https://www.devmedia.com.br/integrando-xp-as-principais-metodologias-ageis/30989>. 
+  Acesso em: 13/08/2021
+
 ### Versionamento
 
  | **Data**   | **Versão** | **Descrição**                   |                **Autor(es)**                 |
@@ -57,3 +69,4 @@ O desenvolvimento das atividades e dos artefatos relacionados à cada entrega se
  | 13/08/2021 |    0.1     | Criação da Wiki Planejamento    |         Pedro Lima e Philipe Serafim         |
  | 12/08/2021 |    1.0     | Criação do documento Cronograma | Gabriel Avelino</br>Philipe Serafim(revisor) |
  | 12/08/2021 |    1.1     | Adição do heatmap               |               Philipe Serafim                |
+ | 12/08/2021 |    1.2     | Adição da metodologia           |      Philipe Serafim e Gabriel Avelino       |
