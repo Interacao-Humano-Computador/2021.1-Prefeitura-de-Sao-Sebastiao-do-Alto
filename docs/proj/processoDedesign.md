@@ -11,7 +11,10 @@ O design de processo é uma operação muito importante, porque através dele fa
 
 Depois de uma análise em "Interação Humano Computador", de Barbosa e Silva, preferimos utilizar o design de processo conhecido como Ciclo de vida de Mayhew ou processo de Engenharia de Usabilidade de Mayhew.
 
-Sentimos que por meio deste processo as atividades eram mais objetivas, deixando mais claro e fácil de trabalhar. Pelo Ciclo de Vida em Estrela, os processos são mais subjetivos e o designer escolhe a atividade que será usada primeiro, pelo de Nielsen é recomendado de 3 a 4 designers, como na atividade de design paralelo, dificultando utilização deste processo.  
+Sentimos que por meio deste processo as atividades eram mais objetivas, deixando mais claro e fácil de trabalhar. Pelo Ciclo de Vida em Estrela, os processos são mais subjetivos e o designer escolhe a atividade que será usada primeiro, pelo de Nielsen é recomendado de 3 a 4 designers, como na atividade de design paralelo, dificultando utilização deste processo. 
+
+![image info](../../assets/img/ciclo_mayhew.png)
+<figcaption>Figura 1 - Ciclo de vida Mayhew</figcaption>
 
 Como a finalidade do trabalho não é o desenvolver do um produto de design do começo, e sim efetuar a avaliação sobre o produto escolhido. Este ciclo é separado em 3 etapas, primeiro a análise de requisitos, em segundo o design, avaliação e desenvolvimento e finalmente a instalação. 
 
@@ -33,8 +36,8 @@ Portanto, por causa de sua metodologia clara e objetiva como mencionando anterio
 
 ## Versionamento
 
-|    Data    | Versão |     Alteração      |             Responsável(eis)              |
-| :--------: | :----: | :----------------: | :---------------------------------------: |
-| 15/08/2021 |  1.0   | Processo de Design | Ítalo Serra</br>Philipe Serafim (revisor) |
-
+|    Data    | Versão |            Alteração            |             Responsável(eis)              |
+| :--------: | :----: | :-----------------------------: | :---------------------------------------: |
+| 15/08/2021 |  1.0   |       Processo de Design        | Ítalo Serra</br>Philipe Serafim (revisor) |
+| 15/08/2021 |  1.1   | Adicionado ciclo de vida Mayhew |              Philipe Serafim              |
 
