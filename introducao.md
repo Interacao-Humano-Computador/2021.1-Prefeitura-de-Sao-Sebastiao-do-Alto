@@ -1,13 +1,10 @@
 # Prefeitura Municipal de São Sebastião do Alto
-
-# Introdução
-
 ## Sobre o projeto
 
-Esse projeto, tem como objetivo fazer uma análise sobre o website da prefeitura Prefeitura Municipal de São Sebastião do Alto. Buscando aplicar os conceitos expostos na disciplina de Interação Humano-Computador. Nisso temos como objetivo desenvolver um projeto que apresente sugestões que aplique os conceitos da disciplina.
+Esse projeto, tem como objetivo fazer uma análise sobre o website da prefeitura Prefeitura Municipal de São Sebastião do Alto. Buscando aplicar os conceitos expostos na disciplina de Interação Humano-Computador. Nisso temos como objetivo desenvolver um projeto que apresente sugestões que apliquem os conceitos da disciplina.
 
 ## Sobre o site
- O site foi selecionado após a apresentação de algumas sugestões por todos os membros do grupo em meio a essas discuções buscamos convergir para uma escolha que pudessemos aplicar os ensinamentos de Interação Humano-Computador. Visando isso escolhemos o site da prefeitura de São Sebastiação do Alto.
+ O site foi selecionado após a apresentação de algumas sugestões por todos os membros do grupo, em meio a essas discussões buscamos convergir para uma escolha que pudéssemos aplicar os ensinamentos de Interação Humano-Computador. Visando isso escolhemos o site da [Prefeitura de São Sebastião do Alto](http://ssalto.rj.gov.br/).
 
 ## Equipe
 
@@ -23,7 +20,7 @@ Esse projeto, tem como objetivo fazer uma análise sobre o website da prefeitura
             </div>
     </div>
     <div class="col-sm-4 container-img">
-      <img src="./assets/img/time/70165759.png" alt="..." class="img-thumbnail image">  
+      <img src="./assets/img/time/Italo.jpg" alt="..." class="img-thumbnail image">  
           <div class="middle">
             <div class="text">
             <a href="https://github.com/italofernandes13">Ítalo Serra</a>
@@ -42,7 +39,7 @@ Esse projeto, tem como objetivo fazer uma análise sobre o website da prefeitura
     <img src="./assets/img/time/serafim.jpg" alt="..." class="img-thumbnail image">
         <div class="middle">
           <div class="text">
-          <a href="https://github.com/philipeserafim">Philipe Serrafim</a>
+          <a href="https://github.com/philipeserafim">Philipe Serafim</a>
           </div>
         </div>
         </div>

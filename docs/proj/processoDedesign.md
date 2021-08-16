@@ -9,7 +9,7 @@ O design de processo é uma operação muito importante, porque através dele fa
 
 ### Processo selecionado
 
-Depois de uma análise em "Interação Humano Computador", de Barbosa e Silva, preferimos utilizar o design de processo conhecido como Ciclo de vida de Mayhew ou processo de Engenharia de Usabilidade de Mayhew,.   
+Depois de uma análise em "Interação Humano Computador", de Barbosa e Silva, preferimos utilizar o design de processo conhecido como Ciclo de vida de Mayhew ou processo de Engenharia de Usabilidade de Mayhew.
 
 Sentimos que por meio deste processo as atividades eram mais objetivas, deixando mais claro e fácil de trabalhar. Pelo Ciclo de Vida em Estrela, os processos são mais subjetivos e o designer escolhe a atividade que será usada primeiro, pelo de Nielsen é recomendado de 3 a 4 designers, como na atividade de design paralelo, dificultando utilização deste processo.  
 
@@ -25,7 +25,7 @@ Na avaliação e desenvolvimento conceberemos uma solução que atenda todas as 
 Portanto, por causa de sua metodologia clara e objetiva como mencionando anteriormente, buscaremos colocar em prática a Engenharia de Usabilidade de Mayhew no nosso projeto. E esperamos ter um bom desenvolvimento e um ótimo projeto para a disciplina. 
 
  
-### Referências bibliográficas
+### Bibliografias
 
     Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
@@ -33,6 +33,8 @@ Portanto, por causa de sua metodologia clara e objetiva como mencionando anterio
 
 ## Versionamento
 
-|Data|Versão|Alteração|Responsável(eis)|
-|:--:|:----:|:-------:|:---:|
-| 15/08/2021 | 1.0 | Processo de Design| Ítalo Serra
+|    Data    | Versão |     Alteração      |             Responsável(eis)              |
+| :--------: | :----: | :----------------: | :---------------------------------------: |
+| 15/08/2021 |  1.0   | Processo de Design | Ítalo Serra</br>Philipe Serafim (revisor) |
+
+

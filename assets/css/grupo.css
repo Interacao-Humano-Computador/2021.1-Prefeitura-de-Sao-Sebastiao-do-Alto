@@ -4,13 +4,6 @@
 }
 
 .container-img img {
-/* box-shadow: rgb(161, 161, 161) 5px 5px 10px;
--webkit-box-shadow: 5px 5px 10px rgb(161, 161, 161);
--moz-box-shadow: 5px 5px 10px rgb(161, 161, 161); */
-
-/* box-shadow: -1px -1px 2px #325d6f;
--webkit-box-shadow: -1px -1px 2px #325d6f;
--moz-box-shadow: -1px -1px 2px #325d6f; */
 
 box-shadow: 0px 0px 0.1em rgb(161, 161, 161);
 -webkit-box-shadow: 0px 0px 0.3em rgb(161, 161, 161);
@@ -132,4 +125,8 @@ background-color: rgb(228, 227, 227);
 -moz-animation: fadeIn 3s ease-in-out;
 -o-animation: fadeIn 3s ease-in-out;
 animation: fadeIn 3s ease-in-out;
+}
+
+.row {
+  justify-content: center;
 }
