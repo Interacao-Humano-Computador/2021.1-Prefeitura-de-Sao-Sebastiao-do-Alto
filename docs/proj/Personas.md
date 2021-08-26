@@ -24,6 +24,21 @@ A existência da representação de um usuário mantém os desenvolvedores focad
 <p style="text-indent: 20px; text-align: justify">
 Com base no perfil de usuário inicial levantado anteriormente, as seguintes personas abaixo criadas pelo grupo tendem a mostrar quem realmente é o público alvo do site avaliado.
 
+|Persona| Carlos Silva Alves|
+| :----: | :--------------------------------------: |
+|Status: |usuário
+|Foto: |
+|Idade: |43 anos |
+|Profissão: |comerciante| 
+|Escolaridade:|Nível médio completo |
+|Objetivos:|Ampliar seu comércio e conseguir pagar a faculdade e escola para seus filhos. |
+|Habilidades:|Ótimo em relações interperssoais, é muito bom em contas e joga bem futebol| 
+|Relacionamentos:| Casado e tem três filhos, conhece bastante os moradores de sua cidade natal.| 
+|Requisitos:| Saber o que está acontecendo na sua cidade. |
+Tarefas: |Trabalha de segunda a sexta, Buscar seu filho mais novo da escola e pagar as contas |
+|Expectativas:|Espera que o sistema seja fácil de aprender a usar, e não demande muito trabalho para achar as informações que deseja. |
+
+
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
