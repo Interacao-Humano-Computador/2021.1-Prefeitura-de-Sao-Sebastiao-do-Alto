@@ -26,31 +26,45 @@ Com base no perfil de usuário inicial levantado anteriormente, as seguintes per
 
 |Persona| Carlos Silva Alves|
 | :----: | :--------------------------------------: |
-|Status: |usuário
+|Status: |Persona primária
 |Foto: |
 |Idade: |43 anos |
 |Profissão: |comerciante| 
 |Escolaridade:|Nível médio completo |
 |Objetivos:|Ampliar seu comércio e conseguir pagar a faculdade e escola para seus filhos |
-|Habilidades:|Ótimo em relações interperssoais, é muito bom em contas e joga bem futebol| 
-|Relacionamentos:| Casado e tem três filhos, conhece bastante os moradores de sua cidade natal| 
+|Habilidades:|Ótimo em relações interpessoais, é muito bom em contas e joga bem futebol| 
+|Relacionamentos:| Casado e tem três filhos| 
 |Requisitos:| Saber o que está acontecendo na sua cidade. |
-Tarefas: |Trabalha de segunda a sexta, Buscar seu filho mais novo da escola e pagar as contas |
+|Tarefas: |Trabalha de segunda a sexta, Buscar seu filho mais novo da escola e pagar as contas |
 |Expectativas:|Espera que o sistema seja fácil de aprender a usar, e não demande muito trabalho para achar as informações que deseja|
 
 |Persona| Maria Tereza Borges| 
 | :----: | :--------------------------------------: | 
 |Status: |Persona secundária |
 |Foto: | 
-|Idade: |73 anos | 
+|Idade: |74 anos | 
 |Profissão: |Aposentada|  
 |Escolaridade:|Nível médio incompleto | 
 |Objetivos:| Se mudar para mais perto do seu filho, conhecer os bisnetos | 
 |Habilidades:|Muito paciente, gosta de ler livros e cozinha bem|  
-|Relacionamentos:| Viúva, visita com frequência os netos|  
+|Relacionamentos:| Viúva|  
 |Requisitos:| Acompanhar como está a situação na sua cidade em relação ao covid-19 | 
 |Tarefas: |Arrumar a casa, fazer atividade física com seus amigos e preparar suas refeições| 
 |Expectativas:|Espera que o sistema seja fácil e prático de se utilizar, para poder ver as informações. necessárias| 
+
+|Persona| Ana Carolina Pereira de Aguiar| 
+| :----: | :--------------------------------------: | 
+|Status: |Persona secundária 
+|Foto: | 
+|Idade: |28 anos | 
+|Profissão: |Advogada|  
+|Escolaridade:|Nível Superior completo | 
+|Objetivos:| Sair da casa dos pais, ter o próprio escritório de advocacia e conhecer a Holanda | 
+|Habilidades:|trabalha bem em equipe, é proativa, canta bem e gosta ler|  
+|Relacionamentos:| Solteira|  
+|Requisitos:| Ser organizado e simples | 
+|Tarefas: |Trabalha de segunda a sexta, ajudar a arrumar a casa, fazer academia e estudar| 
+|Expectativas:| Em quanto usar o site, espera conseguir ver as novas leis municipais, decretos e o diário oficial| 
 
 
 ## Versionamento
