@@ -31,12 +31,26 @@ Com base no perfil de usuário inicial levantado anteriormente, as seguintes per
 |Idade: |43 anos |
 |Profissão: |comerciante| 
 |Escolaridade:|Nível médio completo |
-|Objetivos:|Ampliar seu comércio e conseguir pagar a faculdade e escola para seus filhos. |
+|Objetivos:|Ampliar seu comércio e conseguir pagar a faculdade e escola para seus filhos |
 |Habilidades:|Ótimo em relações interperssoais, é muito bom em contas e joga bem futebol| 
-|Relacionamentos:| Casado e tem três filhos, conhece bastante os moradores de sua cidade natal.| 
+|Relacionamentos:| Casado e tem três filhos, conhece bastante os moradores de sua cidade natal| 
 |Requisitos:| Saber o que está acontecendo na sua cidade. |
 Tarefas: |Trabalha de segunda a sexta, Buscar seu filho mais novo da escola e pagar as contas |
-|Expectativas:|Espera que o sistema seja fácil de aprender a usar, e não demande muito trabalho para achar as informações que deseja. |
+|Expectativas:|Espera que o sistema seja fácil de aprender a usar, e não demande muito trabalho para achar as informações que deseja|
+
+|Persona| Maria Tereza Borges| 
+| :----: | :--------------------------------------: | 
+|Status: |Persona secundária |
+|Foto: | 
+|Idade: |73 anos | 
+|Profissão: |Aposentada|  
+|Escolaridade:|Nível médio incompleto | 
+|Objetivos:| Se mudar para mais perto do seu filho, conhecer os bisnetos | 
+|Habilidades:|Muito paciente, gosta de ler livros e cozinha bem|  
+|Relacionamentos:| Viúva, visita com frequência os netos|  
+|Requisitos:| Acompanhar como está a situação na sua cidade em relação ao covid-19 | 
+|Tarefas: |Arrumar a casa, fazer atividade física com seus amigos e preparar suas refeições| 
+|Expectativas:|Espera que o sistema seja fácil e prático de se utilizar, para poder ver as informações. necessárias| 
 
 
 ## Versionamento
