@@ -27,7 +27,7 @@ Com base no perfil de usuário inicial levantado anteriormente, as seguintes per
 |Persona| Carlos Silva Alves|
 | :----: | :--------------------------------------: |
 |Status: |Persona primária
-|Foto: |
+|Foto: | ![image info](/assets/img/IHC_comerciante.jpg)
 |Idade: |43 anos |
 |Profissão: |comerciante| 
 |Escolaridade:|Nível médio completo |
@@ -38,10 +38,11 @@ Com base no perfil de usuário inicial levantado anteriormente, as seguintes per
 |Tarefas: |Trabalha de segunda a sexta, Buscar seu filho mais novo da escola e pagar as contas |
 |Expectativas:|Espera que o sistema seja fácil de aprender a usar, e não demande muito trabalho para achar as informações que deseja|
 
+
 |Persona| Maria Tereza Borges| 
 | :----: | :--------------------------------------: | 
 |Status: |Persona secundária |
-|Foto: | 
+|Foto: | ![image info](/assets/img/IHC_viuva.jpg)
 |Idade: |74 anos | 
 |Profissão: |Aposentada|  
 |Escolaridade:|Nível médio incompleto | 
@@ -52,10 +53,11 @@ Com base no perfil de usuário inicial levantado anteriormente, as seguintes per
 |Tarefas: |Arrumar a casa, fazer atividade física com seus amigos e preparar suas refeições| 
 |Expectativas:|Espera que o sistema seja fácil e prático de se utilizar, para poder ver as informações. necessárias| 
 
+
 |Persona| Ana Carolina Pereira de Aguiar| 
 | :----: | :--------------------------------------: | 
 |Status: |Persona secundária 
-|Foto: | 
+|Foto: | ![image info](/assets/img/IHC_advogada.jpg)
 |Idade: |28 anos | 
 |Profissão: |Advogada|  
 |Escolaridade:|Nível Superior completo | 
