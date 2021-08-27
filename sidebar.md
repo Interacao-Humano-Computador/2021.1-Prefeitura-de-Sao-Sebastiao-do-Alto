@@ -3,3 +3,5 @@
 - Projeto
   - [Planejamento](docs/proj/planejamento.md)
   - [Processo de Design](docs/proj/processoDedesign.md)
+  - [Análise de requisitos](docs/proj/analiseDeRequisitos.md)
+  - [Personas](docs/proj/Personas.md)
