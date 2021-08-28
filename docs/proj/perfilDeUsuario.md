@@ -98,9 +98,8 @@ Anti-personas são os usuários que o produto não deve ou consegue atingir devi
 |     Tarefas     | Acorda cedo para ir para o estágio, chegando a noite assistir aulas da faculdades e realizar as<br>tarefas do curso, além de ajudar com os afazeres de casa.                   |
 |  Expectativas   | Ao acessar a internet apenas quer assistir filmes e séries online ou acessar o site da faculdade,<br>assim, não tendo interesse neste tipo de site de prefeitura.              |
 
-<center>
 <figcaption> Tabela - Persona 4 </figcaption>
-</center>
+
 
 ### Bibliografias
 
