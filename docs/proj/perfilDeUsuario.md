@@ -31,7 +31,7 @@ Com base no perfil de usuário inicial levantado anteriormente, as seguintes per
 |     Persona     | Carlos Silva Alves                                                                                                       |
 | :-------------: | :----------------------------------------------------------------------------------------------------------------------- |
 |     Status      | Persona primária                                                                                                         |
-|      Foto       | <img src="../assets/img/IHC_comerciante.jpg" width="200px">                                                           |
+|      Foto       | <img src="./assets/img/IHC_comerciante.jpg" width="200px">                                                           |
 |      Idade      | 43 anos                                                                                                                  |
 |    Profissão    | Comerciante                                                                                                              |
 |  Escolaridade   | Nível médio completo                                                                                                     |
@@ -49,7 +49,7 @@ Com base no perfil de usuário inicial levantado anteriormente, as seguintes per
 |     Persona     | Maria Tereza Borges                                                                                  |
 | :-------------: | :--------------------------------------------------------------------------------------------------- |
 |     Status      | Persona secundária                                                                                   |
-|      Foto       | <img src="../assets/img/IHC_viuva.jpg" width="200px">                                             |
+|      Foto       | <img src="./assets/img/IHC_viuva.jpg" width="200px">                                             |
 |      Idade      | 74 anos                                                                                              |
 |    Profissão    | Aposentada                                                                                           |
 |  Escolaridade   | Nível médio incompleto                                                                               |
@@ -66,7 +66,7 @@ Com base no perfil de usuário inicial levantado anteriormente, as seguintes per
 |     Persona     | Ana Carolina Pereira de Aguiar                                                                    |
 | :-------------: | :------------------------------------------------------------------------------------------------ |
 |     Status      | Persona terciária                                                                                 |
-|      Foto       | <img src="../assets/img/IHC_advogada.jpg" width="200px">                                       |
+|      Foto       | <img src="./assets/img/IHC_advogada.jpg" width="200px">                                       |
 |      Idade      | 28 anos                                                                                           |
 |    Profissão    | Advogada                                                                                          |
 |  Escolaridade   | Nível Superior completo                                                                           |
@@ -87,7 +87,7 @@ Anti-personas são os usuários que o produto não deve ou consegue atingir devi
 |     Persona     | Jéssica Prates                                                                                                                                                                 |
 | :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     Status      | Anti-persona                                                                                                                                                                   |
-|      Foto       | <img src="../assets/img/antipersona.jpeg" width="200px">                                                                                                                    |
+|      Foto       | <img src="./assets/img/antipersona.jpeg" width="200px">                                                                                                                    |
 |      Idade      | 20 anos                                                                                                                                                                        |
 |    Profissão    | Estagiária e estudante                                                                                                                                                         |
 |  Escolaridade   | Nível Superior Incompleto                                                                                                                                                      |
