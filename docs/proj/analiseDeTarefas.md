@@ -31,13 +31,73 @@ No diagrama de análise os objetivos e subobjetivos são representados por retâ
 Além do diagrama, também é possível representar uma Análise de hierárquica de tarefas na forma de tabela, onde serão acrescentadas as informações sobre as circunstancias na qual uma operação foi realizada: <strong>ação</strong>, <strong>input</strong> e <strong>feedback</strong>.
 
 
+## Resultados
+
+### Ana Carolina
+![HTA_ana](./../../assets/img/hta_ana.png)
+<figcaption>Figura 1 - Diagrama HTA</figcaption>
+
+
+| Objetivos e Operações                                                                             | Problemas e Recomendações                                                                 |
+| :------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------- |
+| 0. Acessar as novas leis, decretos, concursos e licitações municipais, bem como decretos oficiais | Recomendações: indicar qual contexto o usuário se encontra e o caminho percorrido por ele |
+| 1. Acessar o site da Prefeitura de São Sebastião do Alto                                          | input: endereço do site                                                                   |
+| 2. Na barra de navegação, selecionar o item desejado                                              |                                                                                           |
+| 3. Ir até o mapa do site (3>1)                                                                    | plano: acessar o site para então ir até a página especificada                             |
+| 3.1 Clicar em 'leis municipais'                                                                   |                                                                                           |
+| 3.2 Clicar em 'diário oficial'                                                                    |                                                                                           |
+| 3.3 Clicar em 'licitações municipais'                                                             |                                                                                           |
+| 3.4 Clicar em 'decretos municipais'                                                               |                                                                                           |
+| 4. Pesquisar o item (1>4)                                                                         | input: digitar o item desejado na barra de pesquisa                                       |
+| 4.1 Clicar no item desejado                                                                       |                                                                                           |
+<figcaption> Tabela 2 - Tabela HTA</figcaption>
+
+
+### Carlos Silva
+![HTA_carlos](./../../assets/img/hta_carlos.png)
+<figcaption>Figura 2 - Diagrama HTA</figcaption>
+
+| Objetivos e Operações                                    | Problemas e Recomendações                                                                                       |
+| :------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
+| 0. Acessar as últimas notícias e eventos do município    | recomendação: ordenado com as mais recentes primeiro                                                            |
+| 1. Acessar o site da Prefeitura de São Sebastião do Alto | input: endereço do site                                                                                         |
+| 2. Navegar pela área de últimas publicações (1>2)        | plano: acessar site para então ir até a área citada                                                             |
+| 2.1 Clicar em 'todas as notícias'                        |                                                                                                                 |
+| 3. Ir até o mapa do site (1>3)                           | plano: acessar site para então ir até a área citada                                                             |
+| 3.1 Clicar em 'Notícias'                                 |                                                                                                                 |
+| 3.2 Clicar em 'Eventos'                                  |                                                                                                                 |
+| 4. Na barra de navegação, clicar no item desejado(1>4)   | plano: acessar site para então ir até a área citada<br>recomendação: organizar os eventos ded forma cronológica |
+| 4.1 Clicar no evento desejado                            |                                                                                                                 |
+<figcaption> Tabela 3 - Tabela HTA</figcaption>
+
+### Maria Tereza
+![HTA_maria](./../../assets/img/hta_maria.png)
+<figcaption>Figura 3 - Diagrama HTA</figcaption>
+
+
+| Objetivos e Operações                                                     | Problemas e Recomendações                                                                       |
+| :------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------- |
+| 0. Acessar o boletim COVID-19 do município                                | recomendação: uma página exclusiva devido a seriedade e magnitude da informação                 |
+| 1. Acessar o site da Prefeitura de São Sebastião do Alto                  | input: endereço do site                                                                         |
+| 2. Visualizar na área central, onde se localiza as últimas notícias (1>2) | plano: acessar site para então ir até a área                                                    |
+| 2.1 Acessar uma notícia relacionada ao COVID (2>2.1)                      | plano: navegar pela área de últimas notícias e selecionar uma relacionada ao COVID              |
+| 2.2 Clicar no 'Boletim COVID-19' dentro da notícia                        |                                                                                                 |
+| 3. Pesquisar na página (1>3)                                              | input: digitar COVID na barra de pesquisa<br>plano: acessar site para então utilizar a pesquisa |
+| 3.1 Clicar no 'Boletim COVID-19'                                          |                                                                                                 |
+| 4. Ir até o mapa do site(3>1)                                             | plano: acessar o site para então ir até a página especificada                                   |
+| 4.1 Clicar no Boletim-COVID                                               |                                                                                                 |
+<figcaption> Tabela 4 - Tabela HTA</figcaption>
+
+
+
 ### Bibliografias
 
   BARBOSA S. D. J.; SILVA B. S. <strong>Interação Humano-Computador</strong> ed. Elsevier, 2010.
 
 ## Versionamento
 
-|    Data    | Versão |     Alteração      |             Responsável(eis)             |
-| :--------: | :----: | :----------------: | :--------------------------------------: |
-| 26/08/2021 |  1.0   | Análise de tarefas | Pedro Lima</br>Philipe Serafim (revisor) |
-| 27/08/2021 |  1.1   |   Adição do HTA    |             Philipe Serafim              |
+|    Data    | Versão |              Alteração              |             Responsável(eis)             |
+| :--------: | :----: | :---------------------------------: | :--------------------------------------: |
+| 26/08/2021 |  1.0   |         Análise de tarefas          | Pedro Lima</br>Philipe Serafim (revisor) |
+| 27/08/2021 |  1.1   |        Complementação do HTA        |             Philipe Serafim              |
+| 27/08/2021 |  1.2   | Criação dos diagramas e tabelas HTA |             Philipe Serafim              |
