@@ -19,13 +19,9 @@ A especificação do relacionamento entre subojetivos é chamada de <strong>plan
 #### Diagrama HTA
 No diagrama de análise os objetivos e subobjetivos são representados por retângulos enquanto as operações são representadas por retângulos com uma linha abaixo, enquanto os relacionamentos são representados por números e símbolos que indicam os subobjetivos pertencentes ao relacionamento.
 
-| Relacionamento | Indicador |
-| :------------- | :-------- |
-| Sequencial     | 1>2       |
-| Seleção        | 1/2       |
-| Paralelo       | 1+2       |
+![HTA_elementos](./../../assets/img/hta_elementos.png)
 
-<figcaption>Tabela 1 - Indicadores de relacionamentos em um diagrama HTA</figcaption>
+<figcaption>Figura 1 - Elementos de um diagrama HTA. Autor: Barbosa e Silva (2019)</figcaption>
 
 ### Tabela HTA
 Além do diagrama, também é possível representar uma Análise de hierárquica de tarefas na forma de tabela, onde serão acrescentadas as informações sobre as circunstancias na qual uma operação foi realizada: <strong>ação</strong>, <strong>input</strong> e <strong>feedback</strong>.
@@ -35,7 +31,7 @@ Além do diagrama, também é possível representar uma Análise de hierárquica
 
 ### Ana Carolina
 ![HTA_ana](./../../assets/img/hta_ana.png)
-<figcaption>Figura 1 - Diagrama HTA</figcaption>
+<figcaption>Figura 2 - Diagrama HTA. Autores: Philipe Serafim e Pedro Lima</figcaption>
 
 
 | Objetivos e Operações                                                                             | Problemas e Recomendações                                                                 |
@@ -50,12 +46,12 @@ Além do diagrama, também é possível representar uma Análise de hierárquica
 | 3.4 Clicar em 'decretos municipais'                                                               |                                                                                           |
 | 4. Pesquisar o item (1>4)                                                                         | input: digitar o item desejado na barra de pesquisa                                       |
 | 4.1 Clicar no item desejado                                                                       |                                                                                           |
-<figcaption> Tabela 2 - Tabela HTA</figcaption>
+<figcaption> Tabela 1 - Tabela HTA. Autores: Philipe Serafim e Pedro Lima</figcaption>
 
 
 ### Carlos Silva
 ![HTA_carlos](./../../assets/img/hta_carlos.png)
-<figcaption>Figura 2 - Diagrama HTA</figcaption>
+<figcaption>Figura 3 - Diagrama HTA. Autores: Philipe Serafim e Pedro Lima</figcaption>
 
 | Objetivos e Operações                                    | Problemas e Recomendações                                                                                       |
 | :------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
@@ -68,11 +64,11 @@ Além do diagrama, também é possível representar uma Análise de hierárquica
 | 3.2 Clicar em 'Eventos'                                  |                                                                                                                 |
 | 4. Na barra de navegação, clicar no item desejado(1>4)   | plano: acessar site para então ir até a área citada<br>recomendação: organizar os eventos ded forma cronológica |
 | 4.1 Clicar no evento desejado                            |                                                                                                                 |
-<figcaption> Tabela 3 - Tabela HTA</figcaption>
+<figcaption> Tabela 2 - Tabela HTA. Autores: Philipe Serafim e Pedro Lima</figcaption>
 
 ### Maria Tereza
 ![HTA_maria](./../../assets/img/hta_maria.png)
-<figcaption>Figura 3 - Diagrama HTA</figcaption>
+<figcaption>Figura 4 - Diagrama HTA. Autores: Philipe Serafim e Pedro Lima</figcaption>
 
 
 | Objetivos e Operações                                                     | Problemas e Recomendações                                                                       |
@@ -86,7 +82,7 @@ Além do diagrama, também é possível representar uma Análise de hierárquica
 | 3.1 Clicar no 'Boletim COVID-19'                                          |                                                                                                 |
 | 4. Ir até o mapa do site(3>1)                                             | plano: acessar o site para então ir até a página especificada                                   |
 | 4.1 Clicar no Boletim-COVID                                               |                                                                                                 |
-<figcaption> Tabela 4 - Tabela HTA</figcaption>
+<figcaption> Tabela 3 - Tabela HTA. Autores: Philipe Serafim e Pedro Lima</figcaption>
 
 
 
@@ -96,8 +92,9 @@ Além do diagrama, também é possível representar uma Análise de hierárquica
 
 ## Versionamento
 
-|    Data    | Versão |              Alteração              |             Responsável(eis)             |
-| :--------: | :----: | :---------------------------------: | :--------------------------------------: |
-| 26/08/2021 |  1.0   |         Análise de tarefas          | Pedro Lima</br>Philipe Serafim (revisor) |
-| 27/08/2021 |  1.1   |        Complementação do HTA        |             Philipe Serafim              |
-| 27/08/2021 |  1.2   | Criação dos diagramas e tabelas HTA |             Philipe Serafim              |
+|    Data    | Versão |                     Alteração                     |             Responsável(eis)             |
+| :--------: | :----: | :-----------------------------------------------: | :--------------------------------------: |
+| 26/08/2021 |  1.0   |                Análise de tarefas                 | Pedro Lima</br>Philipe Serafim (revisor) |
+| 27/08/2021 |  1.1   |               Complementação do HTA               |             Philipe Serafim              |
+| 27/08/2021 |  1.2   |        Criação dos diagramas e tabelas HTA        |             Philipe Serafim              |
+| 02/09/2021 |  1.3   | Realização das correção indicadas na apresentação |             Philipe Serafim              |
