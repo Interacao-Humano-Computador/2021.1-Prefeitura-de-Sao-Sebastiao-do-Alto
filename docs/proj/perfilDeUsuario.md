@@ -7,10 +7,11 @@ Um dos passos mais importantes do projeto é conhecer o perfil do usuário, pois
 </p>
 
 
-
 <p style="text-indent: 20px; text-align: justify">
 Como o projeto é focado no site da <a>prefeitura de São Sebastião do Alto </a>, o público alvo é em sua maioria as pessoas dessa região. Com faixa etária variando entre jovens e pessoas mais velhas que desejam utilizar os recursos oferecidos no site. 
 </p>
+
+## Brainstorm
 
 <p style="text-indent: 20px; text-align: justify">
 Para elicitar esses perfis de usuário o grupo utilizou da técnica <a>brainstorm</a> entre os integrantes do grupo. Com ela, descobrimos alguns tipos de usuário que acessariam o site da prefeitura. Segue abaixo a imagem da sessão de brainstorm do grupo realizado no site de diagramas <a>Lucid Chart</a>:
@@ -22,6 +23,11 @@ Para elicitar esses perfis de usuário o grupo utilizou da técnica <a>brainstor
 Imagem: Sessão de brainstorm - 
 Autor: Gabriel Avelino
 </center>
+
+<br>
+<p style="text-indent: 20px; text-align: justify">
+Com os resultados do brainstorm, vimos que o perfil de usuário em sua maioria, são cidadões de São Sebastião do alto, pessoas mais velhas, funcionários da prefeitura e pessoas que tem interesse em saber das nóticias e conhecer a cidade.
+</p>
 
 ## Metodologia
 
