@@ -8,3 +8,4 @@
   - [Análise de Tarefas](docs/proj/analiseDeTarefas.md)
   - [Princípios Gerais de Projeto](docs/proj/principiosGeraisDeProjeto.md)
   - [Metas de Usabilidade](docs/proj/metasDeUsabilidade.md)
+  - [Guia de Estilo](docs/proj/guiaDeEstilo.md)
