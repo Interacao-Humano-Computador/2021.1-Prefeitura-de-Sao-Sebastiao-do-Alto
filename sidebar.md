@@ -6,3 +6,4 @@
 - Análise de Requisitos
   - [Perfil de usuário](docs/proj/perfilDeUsuario.md)
   - [Análise de Tarefas](docs/proj/analiseDeTarefas.md)
+  - [Guia de Estilo](docs/proj/guiaDeEstilo.md)
