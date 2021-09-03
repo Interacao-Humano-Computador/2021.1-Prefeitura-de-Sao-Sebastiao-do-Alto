@@ -62,7 +62,7 @@ No livro da Simone Barbosa os princípios citados são:
 
 4- Consistência e padronização
 
-- O site possui uma certa padronização, pórem en algumas abas são bastante desorganizadas, como na aba "HOME" que possui duas barras de rolagem deixando o usuário com desconforto. 
+- O site possui uma certa padronização, pórem em algumas abas são bastante desorganizadas, como na aba "HOME" que possui duas barras de rolagem deixando o usuário com desconforto. 
 
 5- Promoção da eficiência do usuário
 

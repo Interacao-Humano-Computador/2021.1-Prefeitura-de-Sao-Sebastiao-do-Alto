@@ -6,3 +6,5 @@
 - Análise de Requisitos
   - [Perfil de usuário](docs/proj/perfilDeUsuario.md)
   - [Análise de Tarefas](docs/proj/analiseDeTarefas.md)
+  - [Princípios Gerais de Projeto](docs/proj/principiosGeraisDeProjeto.md)
+  - [Metas de Usabilidade](docs/proj/metasDeUsabilidade.md)
