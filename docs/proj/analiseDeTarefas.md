@@ -2,7 +2,7 @@
 
 # Introdução
 
-Como definido por Barbosa e Silva (2019): "Uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê.". Tendo essa referencia em mente a analise de taréfa tem como foco compreender as ações do usuário frente as funcionalidades do site da [Prefeitura de São Sebastião do Alto](http://ssalto.rj.gov.br/) para assim encontrar ponto a serem melhorados nas funcionalidades e na estética do mesmo. Essa analise será elaborada e abordada com o apoio de personas.
+Como definido por Barbosa e Silva (2019): "Uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê.". Tendo essa referencia em mente a analise de tarefa tem como foco compreender as ações do usuário frente as funcionalidades do site da [Prefeitura de São Sebastião do Alto](http://ssalto.rj.gov.br/) para assim encontrar ponto a serem melhorados nas funcionalidades e na estética do mesmo. Essa analise será elaborada e abordada com o apoio de personas.
 Vale ressaltar que para o projeto em questão analisado, buscou-se como foco principal definir como seria o fluxo de uso de um cidadão local em função das funcionalidades da página web.
 
 # Análise Hierárquica de Tarefas
@@ -84,6 +84,7 @@ Além do diagrama, também é possível representar uma Análise de hierárquica
 | 4.1 Clicar no Boletim-COVID                                               |                                                                                                 |
 <figcaption> Tabela 3 - Tabela HTA. Autores: Philipe Serafim e Pedro Lima</figcaption>
 
+---
 # Árvore de Tarefas Concorrentes
  O modelo de árvores de tarefas concorrentes (ConcurTaskTrees – CTT) foi criado para auxiliar a avaliação e o design e avaliação de IHC (Paternò, 2000).
  No modelo CTT, existem quatro tipos de tarefas:
@@ -122,15 +123,44 @@ Além da hierarquia, o CTT permite relacionamento entre as tarefas, que podem se
 
 <figcaption>Tabela 5 - Relacionamentos do CTT. Fonte: Barbosa e Silva, 2010</figcaption>
 
+---
 # GOMS
- 
 ## Definição
 
-## Conclusões
+ A família GOMS (Goals, Operators, Methods, and Selection Rules - Objetivos, Operadores, Métodos e Regras de Seleção), foi proposta por Card, Moran & Newell em 1983, para "analisar o desempenho de usuário competentes de sistemas computacionais, realizando tarefas dentro da sua competência e sem cometer erros" (Barbosa e Silva, 2010). No geral, sistemas são projetados considerando que seus usuários se tornem eficientes ao realizar tarefas rotineiras. Com isso, os modelos GOMS se revelaram úteis para prever desempenho e impacto de decisões de design.
+
+ O método GOMS descreve uma tarefa e/ou conhecimento técnico do usuário em:
+  - objetivo (goals) - o que o usuário quer realizar
+  - operadores (operators) - primitivas internas (cognitivas), ou externas (ações concretas realizadas que permitem que o usuário realize ações como digitar parâmetros no teclado)
+  - métodos (methods) - sequências bem conhecidas de subobjetivos e operadores que permitem atingir um objetivo maior
+  - regras de seleção (selection rules) - representam tomadas de decisão sobre quais métodos o usuário poderá utilizar em uma determinada situação
+
+O GOMS pode ser utilizado tanto de forma quantitativa, fornecendo estimativas de quanto tempo será necessário para se realizar uma tarefa,  quanto de forma qualitativa, auxiliando na elaboração de treinamentos, sistemas de ajuda e tutoriais. A análise requer que o designer possua uma lista de objetivos iniciais do usuários, que podem ser obtidas através de entrevistas e observações de sistemas existentes ou semelhantes. Dos modelos da família  GOMS destacaremos o KLM.
+
+## KLM
+
+O KLM é a técnica mais simples, nessa técnica existe um conjunto predefinido de operadores primitivos:
+  - K - pressionar tecla ou botão
+  - P - apontar com o mouse um alvo no dispositivo visual
+  - H - mover as mãos para o teclado ou outro dispositivo
+  - D - desenha um segmento de reta em um grid
+  - M - se preparar mentalmente para realizar uma ou mais ações primitivas fortemente relacionadas entre si
+  - R - tempo de resposta do sistema no qual o usuário precisa esperar
+
+Com isso, podemos dissecar uma ação do usuário em várias etapas de acordo com os operadores e fazer estimativas e comparações do tempo de execução de uma tarefa.
+
+---
+# Conclusões
+
+Observando os métodos de análise citados, é percebido que cada método produz uma métrica diferente com relação a tarefa que está sendo analisada. Onde os métodos HTA e CTT produzem esquemas que podem ser utilizados para otimizar a conclusão de uma tarefa visto que eles dissecam as tarefas em etapas de modo a evidenciar etapas que poderiam ser evitadas de alguma forma, enquanto as análises da família GOMS consegue determinar quais etapas da tarefa estão utilizando mais tempo que o ideal, e com isso, identificar possíveis candidatos a receberem facilitados e/ou atalhos.
+
+---
 
 # Bibliografias
 
   BARBOSA S. D. J.; SILVA B. S. <strong>Interação Humano-Computador</strong> ed. Elsevier, 2010.
+  
+  Paternò, F. Model-Based Design and Evaluation of Interactive Applications. London, UK: Springer-Verlag, 1999.
 
 # Versionamento
 
@@ -141,3 +171,4 @@ Além da hierarquia, o CTT permite relacionamento entre as tarefas, que podem se
 | 27/08/2021 |  1.2   |                Criação dos diagramas e tabelas HTA                 |             Philipe Serafim              |
 | 02/09/2021 |  1.3   |         Realização das correção indicadas na apresentação          |             Philipe Serafim              |
 | 02/09/2021 |  1.4   | Adicionado documento de Análise com Árvore de Tarefas Concorrentes |             Philipe Serafim              |
+| 02/09/2021 |  1.4   |          Adicionado documento de Análise GOMS e conclusão          |             Philipe Serafim              |
