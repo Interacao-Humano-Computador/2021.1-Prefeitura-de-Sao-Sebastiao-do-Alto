@@ -133,5 +133,5 @@ Anti-personas são os usuários que o produto não deve ou consegue atingir devi
 | 1.0    | 26/08/2021 | Introdução e Metodologia                       | Gabriel Avelino |
 | 1.1    | 26/08/2021 | Personas adicionadas                           | Ítalo Serra     |
 | 1.2    | 27/08/2021 | Adicionando imagens Personas                   | Ítalo Serra     |
-| 1.1    | 27/08/2021 | Adicionando anti-persona                       | Gabriel Avelino |
-| 1.2    | 28/08/2021 | Adicionando bibliografia e revisando documento | Philipe Serafim |
+| 1.3    | 27/08/2021 | Adicionando anti-persona                       | Gabriel Avelino |
+| 1.4    | 28/08/2021 | Adicionando bibliografia e revisando documento | Philipe Serafim |
