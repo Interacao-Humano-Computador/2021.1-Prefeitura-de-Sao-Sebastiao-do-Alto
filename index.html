@@ -8,8 +8,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="shortcut icon" href="./assets/img/logoRj.png" type="image/x-icon" />
-  <link rel="shortcut icon" href="./assets/img/AmikasSemNome.png" type="image/x-icon" />
-  <link rel="stylesheet" href="./assets/css/grupo.css">
+    <link rel="stylesheet" href="./assets/css/grupo.css">
   <link href="https://fonts.googleapis.com/css?family=Francois+One" rel="stylesheet">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
     integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -19,32 +18,26 @@
 <body>
   <div class="paralax"></div>
   <div id="app"></div>
-  <style>
-    .app-nav a {
-      font-size: 1.5em;
-    }
-
-    .content {
-      overflow: auto;
-    }
-
-    @media screen and (max-width: 800px) {
-      .desktop-only {
-        display: none;
-      }
-    }
-  </style>
   <script>
     window.$docsify = {
       name: 'Prefeitura Municipal de São Sebastião do Alto',
       themeColor: '#8342f4',
       logo: 'assets/img/logoRj.png',
+      repo: 'Interacao-Humano-Computador/2021.1-Prefeitura-de-Sao-Sebastiao-do-Alto',
+      
       coverpage: false,
+      
       homepage: 'introducao.md',
       loadSidebar: 'sidebar.md',
+      loadNavbar: true,
+      mergeNavbar: true,
+      
       auto2top: true,
-      subMaxLevel: 2,
-
+      subMaxLevel: 3,
+      
+      requestHeaders: {
+        'cache-control': 'no-cache'
+      },
       search: 'auto',
       search: [
         '/',
@@ -60,17 +53,9 @@
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-    crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-    crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-    crossorigin="anonymous"></script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+
 
 </body>
 

@@ -17,7 +17,7 @@ A equipe escolheu o site da prefeitura de [São Sebastião do Alto](http://ssalt
  | ![image info](../../assets/img/logo-iphan.png ':size=200') |         [Iphan](http://portal.iphan.gov.br)         | O site do Instituto do Patrimônio Histórico e Artístico Nacional é uma autarquia federal do Governo que busca centralizar  de informações até editais relacionados a concursos e licitações e contratos |
  |  ![image info](../../assets/img/mpu-logo.jpg ':size=50')   | [Ministério Público da União](http://www.mpu.mp.br) | O Site do Ministério Público da União é um site do governo que visa a passar informações sobre o concursos internos e externos e viabilizar documentos e Publicações de certas portarias.               |
  |  ![image info](../../assets/img/infoSaude.jpg ':size=50')  |  [Info-Saúde DF](https://vacina.saude.df.gov.br/)   | O site InfoSaúde-DF é um site do GDF voltado para o agendamento de vacinação para pessoas com comorbidades.                                                                                             |
-<figcaption>Tabela 1 - Sites analisados</figcaption>
+<figcaption>Tabela 1 - Sites analisados. Autores: Membros do grupo</figcaption>
 
 ## Cronograma
 
@@ -35,12 +35,12 @@ A equipe escolheu o site da prefeitura de [São Sebastião do Alto](http://ssalt
 |  VII   |        Verificação dos artefatos         |     04/10     |                                                          Verificar os artefatos construídos durante o projeto                                                           |
 |  VIII  |              Projeto Final               |     20/10     |                                                               Desenvolver a apresentação final do projeto                                                               |
 
-<figcaption>Tabela 2 - Cronograma de atividades</figcaption>
+<figcaption>Tabela 2 - Cronograma de atividades. Autores: Membros do grupo</figcaption>
 
 O desenvolvimento das atividades e dos artefatos relacionados à cada entrega serão confeccionados de acordo com a disponibilidade dos membros, ilustrada no heatmap de disponibilidade:
 
 ![image info](../..assets/img/../../../assets/img/heatmap.png 'size=50')
-<figcaption>Figura 1 - Heatmap de disponibilidade </figcaption>
+<figcaption>Figura 1 - Heatmap de disponibilidade. Autores: Membros do grupo </figcaption>
 
 ## Ferramentas
 
@@ -54,7 +54,7 @@ O desenvolvimento das atividades e dos artefatos relacionados à cada entrega se
   |         ![image info](../../assets/img/sheets.png ':size=50')         |   Google Sheets    | Ferramenta para a elaboração de planilhas que tratem os dados do projeto. |
   |      ![image info](../../assets/img/Gsuite-logo.png ':size=50')       |    Google Suite    | Ferramenta para a elaboração de slide para apresentação.                  |
   |         ![image info](../../assets/img/figma.png ':size=50')          |       Figma        | Ferramenta voltada para os protótipos.                                    |
-<figcaption>Tabela 3 - Ferramentas utilizadas</figcaption>
+<figcaption>Tabela 3 - Ferramentas utilizadas. Membros do grupo</figcaption>
 
 ### Bibliografias
 
@@ -64,9 +64,10 @@ O desenvolvimento das atividades e dos artefatos relacionados à cada entrega se
 
 ### Versionamento
 
- | **Data**   | **Versão** | **Descrição**                   |                **Autor(es)**                 |
- | ---------- | :--------: | ------------------------------- | :------------------------------------------: |
- | 13/08/2021 |    0.1     | Criação da Wiki Planejamento    |         Pedro Lima e Philipe Serafim         |
- | 12/08/2021 |    1.0     | Criação do documento Cronograma | Gabriel Avelino</br>Philipe Serafim(revisor) |
- | 12/08/2021 |    1.1     | Adição do heatmap               |               Philipe Serafim                |
- | 12/08/2021 |    1.2     | Adição da metodologia           |      Philipe Serafim e Gabriel Avelino       |
+ | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
+ | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
+ | 13/08/2021 |    0.1     | Criação da Wiki Planejamento             |         Pedro Lima e Philipe Serafim         |
+ | 12/08/2021 |    1.0     | Criação do documento Cronograma          | Gabriel Avelino</br>Philipe Serafim(revisor) |
+ | 12/08/2021 |    1.1     | Adição do heatmap                        |               Philipe Serafim                |
+ | 12/08/2021 |    1.2     | Adição da metodologia                    |      Philipe Serafim e Gabriel Avelino       |
+ | 02/09/2021 |    1.3     | Adição dos autores das figuras e tabelas |               Philipe Serafim                |
