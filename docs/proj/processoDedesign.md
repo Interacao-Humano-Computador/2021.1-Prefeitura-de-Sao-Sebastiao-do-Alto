@@ -14,7 +14,7 @@ Depois de uma análise em "Interação Humano Computador", de Barbosa e Silva, p
 Sentimos que por meio deste processo as atividades eram mais objetivas, deixando mais claro e fácil de trabalhar. Pelo Ciclo de Vida em Estrela, os processos são mais subjetivos e o designer escolhe a atividade que será usada primeiro, pelo de Nielsen é recomendado de 3 a 4 designers, como na atividade de design paralelo, dificultando utilização deste processo. 
 
 ![image info](../../assets/img/ciclo_mayhew.png)
-<figcaption>Figura 1 - Ciclo de vida Mayhew</figcaption>
+<figcaption>Figura 1 - Ciclo de vida Mayhew. Fonte: Barbosa e Silva 2010 (adaptado de Mayhew, 1999)</figcaption>
 
 Como a finalidade do trabalho não é o desenvolver do um produto de design do começo, e sim efetuar a avaliação sobre o produto escolhido. Este ciclo é separado em 3 etapas, primeiro a análise de requisitos, em segundo o design, avaliação e desenvolvimento e finalmente a instalação. 
 
@@ -30,7 +30,7 @@ Portanto, por causa de sua metodologia clara e objetiva como mencionando anterio
  
 ### Bibliografias
 
-    Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+    BARBOSA S. D. J.; SILVA B. S. <strong>Interação Humano-Computador</strong> ed. Elsevier, 2010.
 
     Paterno, Fabio (1999). Model-Based Design and Evaluation of Interactive Applications. Springer-Verlag, Berlin, Heidelberg, 1st edition.
 
@@ -40,4 +40,5 @@ Portanto, por causa de sua metodologia clara e objetiva como mencionando anterio
 | :--------: | :----: | :-----------------------------: | :---------------------------------------: |
 | 15/08/2021 |  1.0   |       Processo de Design        | Ítalo Serra</br>Philipe Serafim (revisor) |
 | 15/08/2021 |  1.1   | Adicionado ciclo de vida Mayhew |              Philipe Serafim              |
+| 02/09/2021 |  1.2   |        Adicionado fonte         |              Philipe Serafim              |
 
