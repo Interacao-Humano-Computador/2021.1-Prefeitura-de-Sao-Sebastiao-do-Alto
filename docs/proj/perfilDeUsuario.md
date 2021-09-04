@@ -17,16 +17,17 @@ Como o projeto é focado no site da <a>prefeitura de São Sebastião do Alto </a
 Para elicitar esses perfis de usuário o grupo utilizou da técnica <a>brainstorm</a> entre os integrantes do grupo. Com ela, descobrimos alguns tipos de usuário que acessariam o site da prefeitura. Segue abaixo a imagem da sessão de brainstorm do grupo realizado no site de diagramas <a>Lucid Chart</a>:
 </p>
 
-![image info](../../assets/img/perfildeusuario.png)
 
 <center>
-Imagem: Sessão de brainstorm - 
+
+![image info](../../assets/img/perfildeusuario.png)
+Figura 1 - Sessão de brainstorm - 
 Autor: Gabriel Avelino
 </center>
 
 <br>
 <p style="text-indent: 20px; text-align: justify">
-Com os resultados do brainstorm, vimos que o perfil de usuário em sua maioria, são cidadões de São Sebastião do alto, pessoas mais velhas, funcionários da prefeitura e pessoas que tem interesse em saber das nóticias e conhecer a cidade.
+Com os resultados do brainstorm, vimos que o perfil de usuário em sua maioria, são cidadãos de São Sebastião do alto, pessoas mais velhas, funcionários da prefeitura e pessoas que tem interesse em saber das notícias e conhecer a cidade.
 </p>
 
 ## Metodologia
@@ -44,59 +45,56 @@ Com base no perfil de usuário inicial levantado anteriormente, as seguintes per
 
 ### Persona primária
 
-|     Persona     | Carlos Silva Alves                                                                                                       |
-| :-------------: | :----------------------------------------------------------------------------------------------------------------------- |
-|     Status      | Persona primária                                                                                                         |
-|      Foto       | <img src="./assets/img/IHC_comerciante.jpg" width="200px">                                                           |
-|      Idade      | 43 anos                                                                                                                  |
-|    Profissão    | Comerciante                                                                                                              |
-|  Escolaridade   | Nível médio completo                                                                                                     |
-|    Objetivos    | Ampliar seu comércio e conseguir pagar a faculdade e escola para seus filhos                                             |
-|   Habilidades   | Ótimo em relações interpessoais, é muito bom em contas e joga bem futebol                                                |
-| Relacionamentos | Casado e tem três filhos                                                                                                 |
-|   Requisitos    | Saber o que está acontecendo na sua cidade.                                                                              |
-|     Tarefas     | Trabalha de segunda a sexta, Buscar seu filho mais novo da escola e pagar as contas                                      |
-|  Expectativas   | Espera que o sistema seja fácil de aprender a usar, e não demande muito trabalho para achar as<br>informações que deseja |
+|     Persona     | Carlos Silva Alves                                                                                                                                       |
+| :-------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     Status      | Persona primária                                                                                                                                         |
+|      Foto       | <img src="./assets/img/IHC_comerciante.jpg"  width="200px"> </br> Figura 2 - Persona Primária. Fonte: <a href='https://www.pexels.com/pt-br/'>Pexels</a> |
+|      Idade      | 43 anos                                                                                                                                                  |
+|    Profissão    | Comerciante                                                                                                                                              |
+|  Escolaridade   | Nível médio completo                                                                                                                                     |
+|    Objetivos    | Ampliar seu comércio e conseguir pagar a faculdade e escola para seus filhos                                                                             |
+|   Habilidades   | Ótimo em relações interpessoais, é muito bom em contas e joga bem futebol                                                                                |
+| Relacionamentos | Casado e tem três filhos                                                                                                                                 |
+|   Requisitos    | Saber o que está acontecendo na sua cidade.                                                                                                              |
+|     Tarefas     | Trabalha de segunda a sexta, Buscar seu filho mais novo da escola e pagar as contas                                                                      |
+|  Expectativas   | Espera que o sistema seja fácil de aprender a usar, e não demande muito trabalho para achar as<br>informações que deseja                                 |
 
-<figcaption> Figura 1 - Primeira Persona</figcaption>
-<figcaption> Tabela - Persona 1</figcaption>
+<figcaption> Tabela 1 - Persona primária</figcaption>
 
 ### Persona secundária
 
-|     Persona     | Maria Tereza Borges                                                                                  |
-| :-------------: | :--------------------------------------------------------------------------------------------------- |
-|     Status      | Persona secundária                                                                                   |
-|      Foto       | <img src="./assets/img/IHC_viuva.jpg" width="200px">                                             |
-|      Idade      | 74 anos                                                                                              |
-|    Profissão    | Aposentada                                                                                           |
-|  Escolaridade   | Nível médio incompleto                                                                               |
-|    Objetivos    | Se mudar para mais perto do seu filho, conhecer os bisnetos                                          |
-|   Habilidades   | Muito paciente, gosta de ler livros e cozinha bem                                                    |
-| Relacionamentos | Viúva                                                                                                |
-|   Requisitos    | Acompanhar como está a situação na sua cidade em relação ao covid-19                                 |
-|     Tarefas     | Arrumar a casa, fazer atividade física com seus amigos e preparar suas refeições                     |
-|  Expectativas   | Espera que o sistema seja fácil e prático de se utilizar, para poder ver as informações necessárias. |
+|     Persona     | Maria Tereza Borges                                                                                                                               |
+| :-------------: | :------------------------------------------------------------------------------------------------------------------------------------------------ |
+|     Status      | Persona secundária                                                                                                                                |
+|      Foto       | <img src="./assets/img/IHC_viuva.jpg" width="200px"></br>Figura 3 - Persona Secundária. Fonte: <a href='https://www.pexels.com/pt-br/'>Pexels</a> |
+|      Idade      | 74 anos                                                                                                                                           |
+|    Profissão    | Aposentada                                                                                                                                        |
+|  Escolaridade   | Nível médio incompleto                                                                                                                            |
+|    Objetivos    | Se mudar para mais perto do seu filho, conhecer os bisnetos                                                                                       |
+|   Habilidades   | Muito paciente, gosta de ler livros e cozinha bem                                                                                                 |
+| Relacionamentos | Viúva                                                                                                                                             |
+|   Requisitos    | Acompanhar como está a situação na sua cidade em relação ao covid-19                                                                              |
+|     Tarefas     | Arrumar a casa, fazer atividade física com seus amigos e preparar suas refeições                                                                  |
+|  Expectativas   | Espera que o sistema seja fácil e prático de se utilizar, para poder ver as informações necessárias.                                              |
 
-<figcaption> Figura 2 - Segunda Persona</figcaption>
-<figcaption> Tabela - Persona 2</figcaption>
+<figcaption> Tabela 2 - Persona secundária</figcaption>
 
 ### Persona terciária
-|     Persona     | Ana Carolina Pereira de Aguiar                                                                    |
-| :-------------: | :------------------------------------------------------------------------------------------------ |
-|     Status      | Persona terciária                                                                                 |
-|      Foto       | <img src="./assets/img/IHC_advogada.jpg" width="200px">                                       |
-|      Idade      | 28 anos                                                                                           |
-|    Profissão    | Advogada                                                                                          |
-|  Escolaridade   | Nível Superior completo                                                                           |
-|    Objetivos    | Sair da casa dos pais, ter o próprio escritório de advocacia e conhecer a Holanda                 |
-|   Habilidades   | trabalha bem em equipe, é proativa, canta bem e gosta ler                                         |
-| Relacionamentos | Solteira                                                                                          |
-|   Requisitos    | Ser organizado e simples                                                                          |
-|     Tarefas     | Trabalha de segunda a sexta, ajudar a arrumar a casa, fazer academia e estudar                    |
-|  Expectativas   | Em quanto usar o site, espera conseguir ver as novas leis municipais, decretos e o diário oficial |
+|     Persona     | Ana Carolina Pereira de Aguiar                                                                                                                      |
+| :-------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     Status      | Persona terciária                                                                                                                                   |
+|      Foto       | <img src="./assets/img/IHC_advogada.jpg" width="200px"></br>Figura 4 - Persona Terciária. Fonte: <a href='https://www.pexels.com/pt-br/'>Pexels</a> |
+|      Idade      | 28 anos                                                                                                                                             |
+|    Profissão    | Advogada                                                                                                                                            |
+|  Escolaridade   | Nível Superior completo                                                                                                                             |
+|    Objetivos    | Sair da casa dos pais, ter o próprio escritório de advocacia e conhecer a Holanda                                                                   |
+|   Habilidades   | trabalha bem em equipe, é proativa, canta bem e gosta ler                                                                                           |
+| Relacionamentos | Solteira                                                                                                                                            |
+|   Requisitos    | Ser organizado e simples                                                                                                                            |
+|     Tarefas     | Trabalha de segunda a sexta, ajudar a arrumar a casa, fazer academia e estudar                                                                      |
+|  Expectativas   | Em quanto usar o site, espera conseguir ver as novas leis municipais, decretos e o diário oficial                                                   |
 
-<figcaption> Figura 3 - Terceira Persona </figcaption>
-<figcaption> Tabela - Persona 3</figcaption>
+<figcaption> Tabela 3 - Persona terciária</figcaption>
 
 ### Anti-persona
 
@@ -106,7 +104,7 @@ Anti-personas são os usuários que o produto não deve ou consegue atingir devi
 |     Persona     | Jéssica Prates                                                                                                                                                                 |
 | :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     Status      | Anti-persona                                                                                                                                                                   |
-|      Foto       | <img src="./assets/img/antipersona.jpeg" width="200px">                                                                                                                    |
+|      Foto       | <img src="./assets/img/antipersona.jpeg" width="200px"><br>Figura 5 - Anti-persona. Fonte: <a href='https://www.pexels.com/pt-br/'>Pexels</a>                                      |
 |      Idade      | 20 anos                                                                                                                                                                        |
 |    Profissão    | Estagiária e estudante                                                                                                                                                         |
 |  Escolaridade   | Nível Superior Incompleto                                                                                                                                                      |
@@ -117,8 +115,7 @@ Anti-personas são os usuários que o produto não deve ou consegue atingir devi
 |     Tarefas     | Acorda cedo para ir para o estágio, chegando a noite assistir aulas da faculdades e realizar as<br>tarefas do curso, além de ajudar com os afazeres de casa.                   |
 |  Expectativas   | Ao acessar a internet apenas quer assistir filmes e séries online ou acessar o site da faculdade,<br>assim, não tendo interesse neste tipo de site de prefeitura.              |
 
-<figcaption> Figura 4 - Anti-Persona</figcaption>
-<figcaption> Tabela - Persona 4 </figcaption>
+<figcaption> Tabela 4 - Anti-persona </figcaption>
 
 
 ### Bibliografias
