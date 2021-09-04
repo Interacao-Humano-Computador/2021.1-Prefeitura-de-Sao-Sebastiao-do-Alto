@@ -87,10 +87,11 @@ A disposição dos itens no site é simples, mas não apresenta uma hierarquia l
 
 <center>
 
-![gridHome](./../../assets/img/site/Home.png)
+
+![gridHome](./../../assets/img/site/Home.png ':size=500')
 <figcaption>Figura 4 - Grid da página inicial</figcaption>
 
-![gridHome](./../../assets/img/site/Noticias.png)
+![gridHome](./../../assets/img/site/Noticias.png ':size=500')
 <figcaption>Figura 5 - Grid da página de notícias</figcaption>
 
 </center>
