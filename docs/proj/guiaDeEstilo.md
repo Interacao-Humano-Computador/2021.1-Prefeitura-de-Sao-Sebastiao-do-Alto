@@ -4,11 +4,11 @@
 O guia de estilo tem como objetivo documentar as decisões que buscam aplicar soluções voltadas a um design coerente as demandas do site [Prefeitura de São Sebastião do Alto](http://ssalto.rj.gov.br/). Esse documento terá como foco os princípios e as diretrizes adotadas na matéria de Interação Humano-Computador, para que assim exista um eficiência tanto na consulta quanto na reutilização das escolhas.
 
 
-<p align="center">
-  <img src="./../../assets/img/Mayhew01.png" />
-</p>
+<center>
 
+![mayhew](../../assets/img/Mayhew01.png)
 <figcaption>Figura1: Análise de Requisitos do Ciclo de Mayhew. Modificado por: Eduarda Servidio. Fonte: BARBOSA, 2010</figcaption>
+</center>
 
 ## Objetivo do Guia de Estilo
 A guia tem que ser vista como ferramenta e meio de comunicação mais eficiente entre a equipe de design e o time de desenvolvimento. Vale ressaltar que as decisões de design devem estar facilmente acessíveis a consultadas e assim permitindo sua reutilização nas discussões e alterações futuras.
