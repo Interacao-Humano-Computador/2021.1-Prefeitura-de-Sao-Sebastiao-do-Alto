@@ -4,7 +4,7 @@ A Avaliação da Análise de Tarefas que serão apresentadas a seguir usaram o m
 
 - [Tarefa: Secção de leis municipais](docs/proj/tarefaSecção-de-leis-municipais.md).
 - [Tarefa: Secção de leis municipais](docs/proj/tarefaSecção-de-leis-municipais.md).
-- [Tarefa: Secção de leis municipais](docs/proj/tarefaSecção-de-leis-municipais.md).
+- [Tarefa: Secção de leis municipais](docs/proj/tarefa-covid.md).
 
 # Bibliografias
 
