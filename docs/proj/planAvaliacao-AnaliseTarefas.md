@@ -8,6 +8,8 @@
 
 Para realizar a avaliação, foi decidido em grupo, que utilizaríamos <strong>Avaliação por observação</strong>, mais especificamente <strong>Teste de Usabilidade</strong>.
 
+<center>
+<div style="margin: 0 auto">
 <table>
 <thead>
   <tr>
@@ -51,8 +53,8 @@ durante sessões de uso controladas</td>
 </tbody>
 </table>
 
-<center>
 <figcaption>Tabela 1 - Teste de usabilidade. Fonte: Barbosa e Silva, 2010.
+</div>
 </center>
 
 O teste de usabilidade visa a avaliar a usabilidade de um sistema interativo a partir de experiências de uso dos seus usuários-alvo (Rubin, 1994; Rubin e Chisnell, 2008). Para executar as medições esperadas convidamos quatro pessoas para serem os usuários do sistema. Enquanto cada usuário realizava a tarefa que lhe foi designada, o membro responsável por ele observava e registrava resultados referentes ao desempenho, experiência e feedbacks. 
@@ -67,6 +69,6 @@ O teste de usabilidade visa a avaliar a usabilidade de um sistema interativo a p
 
  | **Data**   | **Versão** | **Descrição**        |  **Autor(es)**  |
  | ---------- | :--------: | -------------------- | :-------------: |
- | 12/09/2021 |    1.0     | Criação do Documento | Philipe Serafim |
+ | 12/09/2021 |    1.0     | Criação do Documento | Philipe Serafim e Pedro Lima (revisor) |
 
  
