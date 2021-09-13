@@ -36,7 +36,7 @@ Nós do grupo 2 da disciplina de Interação Humano Computador da Universidade d
 </p>
 
 <ul>
-<li> Os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e desenvolvimento do estudo acerca das interações com o usuário feitas durante o uso do sistema Vjudge. </li>
+<li> Os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e desenvolvimento do estudo acerca das interações com o usuário feitas durante o uso do sistema. </li>
 <li> A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade. </li>
 <li> O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa. </li>
 <li> Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o docente. A divulgação desses resultados pauta-se no respeito à sua privacidade, e a preservação de seus dados pessoais serão preservados em quaisquer documentos que elaborarmos, apenas utilizando da sua identificação básica, nome e idade, e ocupação. </li>
