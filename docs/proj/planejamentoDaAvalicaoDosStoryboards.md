@@ -3,7 +3,7 @@
 ## Introdução
 
 <p style="text-indent: 20px; text-align: justify"> 
-Uma forma rápida e barata de ser desenvolvida e aprimorada é o storyboard, por ser uma prototipagem de baixa fidelidade, que surge atraves da necessidade de demonstrar ideias ao cliente de maneira fácil de ser visualizada. Com isso, juntamente com o usuário do sitema e o cliente é preciso que depois da elaboração dos storyboards seja feito avaliações e validações, porque assim é possível verificar o aliamento e a tomada de decisões de designer.
+Uma forma rápida e barata de ser desenvolvida e aprimorada é o storyboard, por ser uma prototipagem de baixa fidelidade, que surge atraves da necessidade de demonstrar ideias ao cliente de maneira fácil de ser visualizada. Com isso, juntamente com o usuário do sistema e o cliente é preciso que depois da elaboração dos storyboards seja feito avaliações e validações, porque assim é possível verificar o aliamento e a tomada de decisões de designer.
 </p>
 
 ## Objetivo
@@ -15,13 +15,13 @@ Temos o objetivo de mostrar de forma clara e detalhada como as avaliações dos 
 ## Método selecionado
 
 <p style="text-indent: 20px; text-align: justify"> 
-Após uma análise nos storyboards desenvolvidos pelo nosso grupo, realizamos uma introspecção conjunta para dessa forma identficar, abrangendo os casos que desejavamos avaliar, qual seria o melhor método avaliação. Logo, escolhemos realizar algumas avaliações formativas com o foco em entrevistas, porque com esse método nos permiti compreeender melhor sobre as vontades, expectativas e necessidades dos usuários. Com isso, queremos identificar os problemas que podem vir a acontecer e preudicar a qualidade de uso, para que se faça as correções necessárias.
+Após uma análise nos storyboards desenvolvidos pelo nosso grupo, realizamos uma introspecção conjunta para dessa forma identificar, abrangendo os casos que desejavamos avaliar, qual seria o melhor método avaliação. Logo, escolhemos realizar algumas avaliações formativas com o foco em entrevistas, porque com esse método nos permiti compreender melhor sobre as vontades, expectativas e necessidades dos usuários. Com isso, queremos identificar os problemas que podem vir a acontecer e prejudicar a qualidade de uso, para que se faça as correções necessárias.
 </p>
 
 ##  Avaliação
 
 <p style="text-indent: 20px; text-align: justify">
-Primeiro, é necessário fazer uma avaliação dos storyboads para que possamos verificar se caso existe alguma relação com o uso dos entrevistados, e com isso definir todas as perguntas que serão feitas. E com as respostas que vamos obter, podemos efettuar as mudanças que definirmos como necessárias nos storyboads para que fiquem mais coerente como a realidade e necessidade dos convidados. 
+Primeiro, é necessário fazer uma avaliação dos storyboards para que possamos verificar se caso existe alguma relação com o uso dos entrevistados, e com isso definir todas as perguntas que serão feitas. E com as respostas que vamos obter, podemos efetuar as mudanças que definirmos como necessárias nos storyboards para que fiquem mais coerente como a realidade e necessidade dos convidados. 
 </p>
 
 
@@ -32,7 +32,7 @@ Para a participação nesta avaliação, o participante, que é voluntário, dev
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Nós do grupo 2 da disciplina de Interação Humano Computador da Universidade de Brasília, e queremos fazer uma análise nos storyboads e sua efetivação e abrangêcia nos requisitos que possuem interação com os usários, para que desta maneira a remodelagem do sistema do site da Prefeitura do São Sebastião do Alto fique melhor à sua comunidade. Sendo assim, é necessário saber mais das necessidades, vontades e expectativas das pessoas que utilizam deste site atráves de uma série de perguntas. Solicitamos o seu consentimento para realizarmos algumas perguntas por meio de uma entrevista, e para, realmente, decidir sobre o consentimento, é preciso que saiba as seguintes informações em rellação a pesquisa:
+Nós do grupo 2 da disciplina de Interação Humano Computador da Universidade de Brasília, e queremos fazer uma análise nos storyboards e sua efetivação e abrangência nos requisitos que possuem interação com os usuários, para que desta maneira a remodelagem do sistema do site da Prefeitura do São Sebastião do Alto fique melhor à sua comunidade. Sendo assim, é necessário saber mais das necessidades, vontades e expectativas das pessoas que utilizam deste site através de uma série de perguntas. Solicitamos o seu consentimento para realizarmos algumas perguntas por meio de uma entrevista, e para, realmente, decidir sobre o consentimento, é preciso que saiba as seguintes informações em relação a pesquisa:
 </p>
 
 <ul>
@@ -67,14 +67,14 @@ Depois de passado todas essa informações, desejamos que você fale em alto e b
 <figcaption>Tabela 1 - Roteiro para a entrevista de persona</figcaption>
 </center>
 
-## 7. Conclusão
+## Conclusão
 <p style="text-indent: 20px; text-align: justify"> 
 Com os resultados que serão obtidos neste documento, espera-se que todos possam entender a avaliação dos storyboards, de forma que seja possível ver as possíveis melhorias quando identificarmos os problemas, vontades necessidades e expectativas do usuários do site avaliado.
 </p>
 
-## Referências bibliográficas
+## Bibliografias
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 
 ## Versionamento

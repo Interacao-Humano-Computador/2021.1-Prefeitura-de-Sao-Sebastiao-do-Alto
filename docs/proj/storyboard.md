@@ -14,7 +14,7 @@ O storyboard ajuda a fornecer detalhes da aplicação de maneira simples e efici
 ## Storyboards
 
 <p style="text-indent: 20px; text-align: justify">
-Com os storyboards abaixo, verificamos bomo a presença ou a ausência do site influencia na vida desses usuários, ilustrando um cenário elaborado dessa situação específica em que o usuário irá utilizar o sistema. Com a ferramenta <a>StoryBoardThat</a> os seguintes storyboards foram criados:
+Com os storyboards abaixo, verificamos como a presença ou a ausência do site influencia na vida desses usuários, ilustrando um cenário elaborado dessa situação específica em que o usuário irá utilizar o sistema. Com a ferramenta <a>StoryBoardThat</a> os seguintes storyboards foram criados:
 </p>
 
 ## Storyboard - 1
@@ -84,9 +84,9 @@ Com o storyboard abaixo, uma visitante do município deseja conhecer a cidade, p
 
 <br>
 
-## Referências bibliográficas
+## Bibliografias
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 
 ## Versionamento

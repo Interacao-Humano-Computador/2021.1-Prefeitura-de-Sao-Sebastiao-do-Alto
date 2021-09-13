@@ -1,6 +1,6 @@
 # Avaliação Storyboard
 
-## 1. Introdução
+## Introdução
 
 <p style="text-indent: 20px; text-align: justify"> 
 Depois de ter preparado o planejamento da avaliação desses storyboards, seguimos com a avaliação feitas pelos membros do grupo. Com o método escolhido, que foi por meio de entrevistas com as personas traçadas durante a etapa de perfis de usuários foi permitido ao avaliador ter contato, interpretar e analisar as concepções, opiniões, desejos, e ações do usuário relacionado com sistemas interativos, além de permitir investigar alternativas de design, problemas que os usuários enfrentam utilizar o sistema no dia a dia e como eles lidam com a tecnologia existente no sistema.
@@ -16,7 +16,7 @@ Com esses dados dos perfis de usuário, conseguimos obter informações valiosas
 
 <p style="text-indent: 20px; text-align: justify">  Com essa avaliação do storyboard, temos como objetivo validar o protótipo feito para cada uma das funcionalidade vistas nesses cenários. Demonstrando as tarefas do sistema através desse protótipo.</p>
 
-## Métodologia adotada
+## Metodologia
 
 <p style="text-indent: 20px; text-align: justify"> 
 O grupo realizou a escolha de utilizar como método para esta avaliação a <b>entrevista</b>, que faz parte do método de  investigação. Com base nisso e na coleta de dados levantado durante a etapa de perfil de usuário, escolhemos entrevistar as personas levantadas para o projeto, para avaliarem os storyboards feitos pelo grupo. Todas as personas entrevistadas consentiram com os termos de consentimento para a realização da entrevista. As perguntas aplicadas serão as mesma para todos os entrevistados para não haver parcialidade. Segue a baixo os entrevistados:
@@ -59,7 +59,7 @@ O grupo realizou a escolha de utilizar como método para esta avaliação a <b>e
 | Número | Pergunta                                                                                      | Estrutura da Resposta      |
 | ------ | --------------------------------------------------------------------------------------------- | -------------------------- |
 | 6      | Esse segundo storyboard, você acredita que representa bem a situação de um cidadão preocupado com a situação do covid no município?                                                | [ x ] Sim</br>[&emsp;] Não |
-| 7      | A cena retrata bem a funcionalidade observada na situação? | Acredito que sim, porém deveria ter retradado mais a funcionalidade em funcionamento. |
+| 7      | A cena retrata bem a funcionalidade observada na situação? | Acredito que sim, porém deveria ter retratado mais a funcionalidade em funcionamento. |
 
 <center>
 <figcaption>Tabela 2 - Questionário Storyboard 2</figcaption>
@@ -141,16 +141,16 @@ O grupo realizou a escolha de utilizar como método para esta avaliação a <b>e
 ## Conclusão
 
 <p style="text-indent: 20px; text-align: justify"> 
-Com as informações e dados coletados nas entrevistas dessas personas, observamos que em geral como o nosso storyboard aborda o escôpo do projeto. Com o Carlos Alves que gostou de todos storyboards e apenas sugeriu um detalhamento maior no storyboard - Boletim do COVID, chegando a conhecer uma nova funcionalidade do site, que seria conhecer a história do município através dele. E com a avaliação da advogada Ana Carolina que gostou dos storyboards de uma maneira geral, porém faltando um pouco de detalhe no processo da funcionalidade do storyboard - IPTU e não estando de acordo com o storyboard - Boletim COVID, precisando de uma maior atenção a ele. 
+Com as informações e dados coletados nas entrevistas dessas personas, observamos que em geral como o nosso storyboard aborda o escopo do projeto. Com o Carlos Alves que gostou de todos storyboards e apenas sugeriu um detalhamento maior no storyboard - Boletim do COVID, chegando a conhecer uma nova funcionalidade do site, que seria conhecer a história do município através dele. E com a avaliação da advogada Ana Carolina que gostou dos storyboards de uma maneira geral, porém faltando um pouco de detalhe no processo da funcionalidade do storyboard - IPTU e não estando de acordo com o storyboard - Boletim COVID, precisando de uma maior atenção a ele. 
 </p>
 
 <p style="text-indent: 20px; text-align: justify"> 
 Com isso concluimos as entrevistas e a avaliação dos storyboards criados pelo grupo sobre a Prefeitura de São Sebastião do Alto.
 </p>
 
-## Referências Bibliográficas
+## Bibliografias
 
-- BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador.Editora Campus- ElsevierElsevier, 2010.
+BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador.Editora Campus- Elsevier, 2010.
 
 
 ## Versionamento

@@ -15,5 +15,5 @@
     - [Avaliação](docs/proj/avaliacao-AnaliseTarefas.md)
   - Storyboard
     - [Storyboard](docs/proj/storyboard.md)
-    - [Planejamento da Avalição dos Storyboars](docs/proj/planejamentoDaAvalicaoDosStoryboars.md)
-    - [Relato de Resultados dos Storyboard](docs/proj/relatoResultadosStoryboard.md)
+    - [Planejamento da Avalição dos Storyboars](docs/proj/planejamentoDaAvalicaoDosStoryboards.md)
+    - [Relato de Resultados dos Storyboard](docs/proj/relatoResultadoStoryboard.md)
