@@ -13,7 +13,7 @@
   - Análise de tarefas
     - [Planejamento](docs/proj/planAvaliacao-AnaliseTarefas.md)
     - [Avaliação](docs/proj/avaliacao-AnaliseTarefas.md)
-  - Storyboars
-    - [Storyboars](docs/proj/storyboar.md)
+  - Storyboard
+    - [Storyboard](docs/proj/storyboard.md)
     - [Planejamento da Avalição dos Storyboars](docs/proj/planejamentoDaAvalicaoDosStoryboars.md)
     - [Relato de Resultados dos Storyboard](docs/proj/relatoResultadosStoryboard.md)
