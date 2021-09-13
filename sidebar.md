@@ -9,3 +9,7 @@
   - [Princípios Gerais de Projeto](docs/proj/principiosGeraisDeProjeto.md)
   - [Metas de Usabilidade](docs/proj/metasDeUsabilidade.md)
   - [Guia de Estilo](docs/proj/guiaDeEstilo.md)
+- Planejamento e avaliação
+  - Análise de tarefas
+    - [Planejamento](docs/proj/planAvaliacao-AnaliseTarefas.md)
+    - [Avaliação](docs/proj/avaliacao-AnaliseTarefas.md)
