@@ -4,7 +4,7 @@ A Avaliação da Análise de Tarefas que serão apresentadas a seguir usaram o m
 
 ## Tarefa : Acessar leis municipais
 
-A tarefa proposta será de acessar as leis municipais. Assim como uma perceção do funcionamento da plataforma.
+A tarefa proposta será de acessar as leis municipais. Assim como uma percepção do funcionamento da plataforma.
 
 ### Participante
 
@@ -16,7 +16,7 @@ A participante foi encaminhado a se acomodar e foi informada de sua tarefa. O pr
 
 ### Entrevista
 
-Ao final da tarefa foi coletado as perceções do usuário sobre respetiva tarefa.
+Ao final da tarefa foi coletado as percepções do usuário sobre respetiva tarefa.
 
 <center>
 
@@ -55,7 +55,7 @@ A participante foi encaminhado a se acomodar e foi informada de sua tarefa. O pr
 
 ### Entrevista
 
-Ao final da tarefa foi coletado as perceções do usuário sobre respetiva tarefa.
+Ao final da tarefa foi coletado as percepções do usuário sobre respetiva tarefa.
 
 <center>
 
@@ -124,7 +124,7 @@ A entrevista foi realizada com as seguintes perguntas:
 
 # Interpretação e consolidação dos resultados
 
-Com base nos feedback fornecidos pelos usuários, é percetível que é possível concluir as tarefas presentes na Analise de Tarefas (HTA). Porém o site não é amigável com usuários sem instrução ou experiência em tecnologia. A experiência num todo acabou por produzir sentimentos de confusão e frustração. Levando em consideração que o perfil dos usuários que utilizam o site são pessoas de idade mediana e que no geral não possuíam familiaridade com tecnologia algumas adaptações deveriam ser realizadas:
+Com base nos feedback fornecidos pelos usuários, é perceptível que é possível concluir as tarefas presentes na Analise de Tarefas (HTA). Porém o site não é amigável com usuários sem instrução ou experiência em tecnologia. A experiência num todo acabou por produzir sentimentos de confusão e frustração. Levando em consideração que o perfil dos usuários que utilizam o site são pessoas de idade mediana e que no geral não possuíam familiaridade com tecnologia algumas adaptações deveriam ser realizadas:
 
 - Esquema de cores mais intuitivos e que não levam à perda de foco.
 - Páginas individuais de acordo com o tema.
