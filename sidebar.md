@@ -9,11 +9,18 @@
   - [Princípios Gerais de Projeto](docs/proj/principiosGeraisDeProjeto.md)
   - [Metas de Usabilidade](docs/proj/metasDeUsabilidade.md)
   - [Guia de Estilo](docs/proj/guiaDeEstilo.md)
-- Planejamento e avaliação
-  - Análise de tarefas
-    - [Planejamento](docs/proj/planAvaliacao-AnaliseTarefas.md)
-    - [Avaliação](docs/proj/avaliacao-AnaliseTarefas.md)
-  - Storyboard
-    - [Storyboard](docs/proj/storyboard.md)
-    - [Planejamento da Avalição dos Storyboars](docs/proj/planejamentoDaAvalicaoDosStoryboards.md)
-    - [Relato de Resultados dos Storyboard](docs/proj/relatoResultadoStoryboard.md)
+
+- Design, Avaliação e Desenvolvimento
+  - [Storyboard](docs/proj/storyboard.md)
+  - [Protótipo ](docs/proj/prototipoBaixa.md)
+
+  - Planejamento e avaliação
+    - Análise de tarefas
+      - [Planejamento](docs/proj/planAvaliacao-AnaliseTarefas.md)
+      - [Avaliação](docs/proj/avaliacao-AnaliseTarefas.md)
+    - Storyboard
+      - [Planejamento](docs/proj/planejamentoDaAvalicaoDosStoryboards.md)
+      - [Avaliação](docs/proj/relatoResultadoStoryboard.md)
+
+    - Protótipo de Baixa-fidelidade
+      - [Planejamento](docs/proj/planejamentoAvalicaoBaixa.md)

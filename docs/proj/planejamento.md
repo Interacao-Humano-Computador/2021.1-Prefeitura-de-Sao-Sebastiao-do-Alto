@@ -53,7 +53,8 @@ O desenvolvimento das atividades e dos artefatos relacionados à cada entrega se
   |         ![image info](../../assets/img/github.png ':size=50')         |       GitHub       | Ferramenta para o controle de versões do código do projeto.               |
   |         ![image info](../../assets/img/sheets.png ':size=50')         |   Google Sheets    | Ferramenta para a elaboração de planilhas que tratem os dados do projeto. |
   |      ![image info](../../assets/img/Gsuite-logo.png ':size=50')       |    Google Suite    | Ferramenta para a elaboração de slide para apresentação.                  |
-  |         ![image info](../../assets/img/figma.png ':size=50')          |       Figma        | Ferramenta voltada para os protótipos.                                    |
+  |         ![image info](../../assets/img/figma.png ':size=50')          |       Figma        | Ferramenta para criação de interfaces de usuário                          |
+  |        ![image info](../../assets/img/invision.png ':size=50')        |      InVision      | Ferramenta para criação de protótipos.                                    |
 <figcaption>Tabela 3 - Ferramentas utilizadas. Membros do grupo</figcaption>
 
 ### Bibliografias
@@ -71,3 +72,4 @@ O desenvolvimento das atividades e dos artefatos relacionados à cada entrega se
  | 12/08/2021 |    1.1     | Adição do heatmap                        |               Philipe Serafim                |
  | 12/08/2021 |    1.2     | Adição da metodologia                    |      Philipe Serafim e Gabriel Avelino       |
  | 02/09/2021 |    1.3     | Adição dos autores das figuras e tabelas |               Philipe Serafim                |
+ | 10/09/2021 |    1.4     | Adição de ferramentas                    |               Philipe Serafim                |
