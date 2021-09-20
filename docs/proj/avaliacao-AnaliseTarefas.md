@@ -138,7 +138,7 @@ Com base nos feedback fornecidos pelos usuários, é perceptível que é possív
 Segue abaixo o link da entrevista com as personas da avaliação realizada.
 </p>
 
-<iframe width="560" height="560" src="https://www.youtube.com/watch?v=6lUj89CPaNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="560" src="https://www.youtube.com/embed/watch?v=6lUj89CPaNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Bibliografias
 
