@@ -132,6 +132,14 @@ Com base nos feedback fornecidos pelos usuários, é perceptível que é possív
 - Melhor distribuição e organização dos objetos presentes no site.
 - Padronização da utilização de tipografia e cores.
 
+## Entrevista com as personas
+
+<p style="text-indent: 20px; text-align: justify">
+Segue abaixo o link da entrevista com as personas da avaliação realizada.
+</p>
+
+<iframe width="560" height="560" src="https://www.youtube.com/watch?v=6lUj89CPaNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Bibliografias
 
 BARBOSA S. D. J.; SILVA B. S. <strong>Interação Humano-Computador</strong> ed. Elsevier, 2010.
