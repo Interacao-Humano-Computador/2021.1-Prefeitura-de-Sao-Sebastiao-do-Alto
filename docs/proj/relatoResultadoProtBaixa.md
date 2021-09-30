@@ -78,6 +78,8 @@ Segue os dados coletados em cada entrevista que foi realizada pelos membros do g
 
 ### Entrevista com o aluno Nathan Serra
 
+O link da entrevista pode ser acessado aqui [entrevista Nathan - Link](entrevistaNathan.md)
+
 <p style="text-indent: 20px; text-align: justify">
 O estudante Nathan que foi entrevistado correspondeu a entrevista de forma descontraída e gentil. Com a forma que foi conduzida a entrevista, ele não teve nenhuma dificuldade ao acessar os caminhos das tarefas desejadas e postas em práticas. Ele achou o protótipo de papel bem feito e eficiente em comparação ao site original. Não apresentou nenhuma sugestão de melhoria para o protótipo e para suas funcionalidades.
 </p>
@@ -88,6 +90,7 @@ E com base nas perguntas feitas no final da entrevista ele considerou que utiliz
 
 ### Entrevista com o engenheiro Matheus Freire
 
+O link da entrevista pode ser acessado aqui [entrevista Matheus - Link](entrevistaMatheus.md)
 
 ## Conclusão
 
