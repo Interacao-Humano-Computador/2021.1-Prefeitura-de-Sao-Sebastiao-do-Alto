@@ -19,6 +19,11 @@ Primeiro foi definido que as tarefas a serem executadas serão as mesmas tarefas
 
 O perfil dos usuários do site já foi definido previamente com o auxílio das [Personas](../../docs/proj/../../assets/img/perfildeusuario.png), entretanto, para realizar a avaliação apenas o Carlos Silva e a Maria Tereza foram recrutados.
 
+### Teste Piloto
+
+<p style="text-indent: 20px; text-align: justify">
+O objetivo desse teste é avaliar o próprio planejamento e o protótipo de papel realizado pela equipe, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder as questões e objetivos do estudo.
+</p>
 
 ### Coleta e interpretação dos dados
 Antes dos usuários iniciarem as tarefas indicadas, foi necessário verificar se eles tinham conhecimento do que iriam realizar e se consentiam com isso através do termo de consentimento:
