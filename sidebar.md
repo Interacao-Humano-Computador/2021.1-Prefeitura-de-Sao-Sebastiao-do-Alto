@@ -14,7 +14,7 @@
   - [Storyboard](docs/proj/storyboard.md)
   - [Protótipo ](docs/proj/prototipoBaixa.md)
 
-  - Planejamento e avaliação
+  - Planejamento e avaliação - Baixa Fidelidade
     - Análise de tarefas
       - [Planejamento](docs/proj/planAvaliacao-AnaliseTarefas.md)
       - [Avaliação](docs/proj/avaliacao-AnaliseTarefas.md)
@@ -24,3 +24,11 @@
 
     - Protótipo de Baixa-fidelidade
       - [Planejamento](docs/proj/planejamentoAvalicaoBaixa.md)
+    
+    
+  - Planejamento e avaliação - Alta Fidelidade
+    - Análise de tarefas
+        - [Planejamento](docs/proj/planAvaliacao-AnaliseTarefas-alta.md)
+        - [Avaliação](docs/proj/avaliacao-AnaliseTarefas-alta-alta.md)
+    - Protótipo de Alta-fidelidade
+      - [Planejamento](docs/proj/planejamentoAvalicaoAlta.md)
