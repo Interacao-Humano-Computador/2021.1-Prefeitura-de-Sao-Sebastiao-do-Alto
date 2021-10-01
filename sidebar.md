@@ -27,4 +27,4 @@
     - [Planejamento](docs/proj/planejamentoAvalicaoBaixa.md)
 
   - Protótipo de Alta-fidelidade
-    - [Planejamento](docs/proj/planejamentoAvalicaoAlta.md)
+    - [Planejamento](docs/proj/planejamentoAvaliacaoAlta.md)
