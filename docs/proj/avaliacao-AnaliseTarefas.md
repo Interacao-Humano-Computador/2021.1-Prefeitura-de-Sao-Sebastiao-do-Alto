@@ -8,7 +8,7 @@ A tarefa proposta será de acessar as leis municipais. Assim como uma percepçã
 
 ### Participante
 
-A persona que estará comprometido com isso será a da Ana Carolina. A mesma é advogada formada e atuante na área com 26 anos e carreira estável. Dês de cedo sempre teve acesso a tecnologia logo pode-se considerar um usuário avançado.
+A persona que estará comprometido com isso será a da [Ana Carolina](docs/proj/perfilDeUsuario?id=persona-terciária).
 
 ### Coleta de Dados
 
@@ -40,14 +40,13 @@ Ao final da tarefa foi coletado as percepções do usuário sobre respetiva tare
 <figcaption>Figura 2 - Tabela de Respostas</figcaption>
 </center>
 
-
 ## Tarefa : Todas as noticias
 
 A tarefa proposta será de encontrar uma link que retorne para todas as noticias referentes a cidade.
 
 ### Participante
 
-A persona que estará comprometido com isso será a do Carlos Silva. Carlos, 43 ano é comerciante na cidade e teve pouco acesso a conhecimento a tecnologia. Porem isso nunca foi um impeditivo devido as demandas do comercio. Carlos sempre teve um espírito desbravador, isso o leva sempre buscar se manter informado.
+A persona que estará comprometido com isso será a do [Carlos Silva](docs/proj/perfilDeUsuario?id=persona-primária).
 
 ### Coleta de Dados
 
@@ -86,7 +85,7 @@ A tarefa proposta será acessar a área relacionada às informações do COVID.
 
 ### Participante
 
-A persona que com a tarefa será a Maria Tereza. Maria possui 74 anos, aposentada e não possui muita familiaridade com tecnologia.
+A persona que com a tarefa será a [Maria Tereza](docs/proj/perfilDeUsuario?id=persona-secundária).
 
 ### Coleta de Dados
 
@@ -153,3 +152,4 @@ BARBOSA S. D. J.; SILVA B. S. <strong>Interação Humano-Computador</strong> ed.
 | 12/09/2021 |    1.0     | Criação do Documento        | Pedro Lima e Philipe Serafim |
 | 12/09/2021 |    1.1     | Avaliação das tarefas 1 e 2 |          Pedro Lima          |
 | 12/09/2021 |    1.2     | Avaliação da tarefa 3       |       Philipe Serafim        |
+| 30/09/2021 |    1.3     | Ajuste requisitados em aula |          Pedro Lima          |

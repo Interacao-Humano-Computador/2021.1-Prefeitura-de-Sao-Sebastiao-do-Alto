@@ -12,20 +12,24 @@
 
 - Design, Avaliação e Desenvolvimento
   - [Storyboard](docs/proj/storyboard.md)
-  - [Protótipo ](docs/proj/prototipoBaixa.md)
+  - [Protótipo Baixa-Fidelidade](docs/proj/prototipoBaixa.md)
+  - [Protótipo Alta-Fidelidade](docs/proj/prototipoAlta.md)
 
-  - Planejamento e avaliação
-    - Análise de tarefas
-      - [Planejamento](docs/proj/planAvaliacao-AnaliseTarefas.md)
-      - [Avaliação](docs/proj/avaliacao-AnaliseTarefas.md)
-    - Storyboard
-      - [Planejamento](docs/proj/planejamentoDaAvalicaoDosStoryboards.md)
-      - [Avaliação](docs/proj/relatoResultadoStoryboard.md)
+- Planejamento e avaliação
+  - Análise de tarefas
+    - [Planejamento](docs/proj/planAvaliacao-AnaliseTarefas.md)
+    - [Avaliação](docs/proj/avaliacao-AnaliseTarefas.md)
+  - Storyboard
+    - [Planejamento](docs/proj/planejamentoDaAvalicaoDosStoryboards.md)
+    - [Avaliação](docs/proj/relatoResultadoStoryboard.md)
 
-    - Protótipo de Baixa-fidelidade
-      - [Planejamento](docs/proj/planejamentoAvalicaoBaixa.md)
-      - [Avaliação](docs/proj/relatoResultadoProtBaixa.md)
+  - Protótipo de Baixa-fidelidade
+    - [Planejamento](docs/proj/planejamentoAvalicaoBaixa.md)
+    - [Avaliação](docs/proj/relatoResultadoProtBaixa.md)
       - Entrevistas
         - [Entrevista Nathan](docs/proj/entrevistaNathan.md)
         - [Entrevista Matheus](docs/proj/entrevistaMatheus.md)
         - [Teste Piloto](docs/proj/testePilotoBaixa.md)
+
+  - Protótipo de Alta-fidelidade
+    - [Planejamento](docs/proj/planejamentoAvaliacaoAlta.md)
