@@ -18,12 +18,11 @@ Temos o objetivo de mostrar de forma clara e detalhada como as avaliações dos 
 Após uma análise nos storyboards desenvolvidos pelo nosso grupo, realizamos uma introspecção conjunta para dessa forma identificar, abrangendo os casos que desejavamos avaliar, qual seria o melhor método avaliação. Logo, escolhemos realizar algumas avaliações formativas com o foco em entrevistas, porque com esse método nos permiti compreender melhor sobre as vontades, expectativas e necessidades dos usuários. Com isso, queremos identificar os problemas que podem vir a acontecer e prejudicar a qualidade de uso, para que se faça as correções necessárias.
 </p>
 
-##  Avaliação
+## Avaliação
 
 <p style="text-indent: 20px; text-align: justify">
 Primeiro, é necessário fazer uma avaliação dos storyboards para que possamos verificar se caso existe alguma relação com o uso dos entrevistados, e com isso definir todas as perguntas que serão feitas. E com as respostas que vamos obter, podemos efetuar as mudanças que definirmos como necessárias nos storyboards para que fiquem mais coerente como a realidade e necessidade dos convidados. 
 </p>
-
 
 ## Termo de consentimento
 
@@ -51,23 +50,24 @@ Depois de passado todas essa informações, desejamos que você fale em alto e b
 <ul>
 </p>
 
-
 ### Roteiro de Perguntas
 
-| Número | Pergunta | Possível Resposta |
-|:--:|:--:|:---|
-| 1      | Qual seu nome?  |  Pergunta discursiva |
-| 2      | Qual sua idade  |  Pergunta discursiva |                                                             |
-| 3      | Qual seu gênero | [&emsp;] Masculino<br/>[&emsp;] Feminino<br/>[&emsp;] Não binário<br/>[&emsp;] Outro, qual? |
-| 4      | Você acredita que o cenário ilustrado representa um caso real?                  | [&emsp;] Sim</br>[&emsp;] Não                                                                                |
-| 5      | Qual a sugestão de alteração ou melhoria para o storyboard sugere? |  Pergunta discursiva |
-| 6      | Esse segundo storyboard, você acredita que representa bem a situação de um cidadão preocupado com a situação do covid no município?                                                | [&emsp;] Sim</br>[&emsp;] Não |
-| 7      | A cena retrata bem a funcionalidade observada na situação? |  Pergunta discursiva |
+| Número |                                                              Pergunta                                                               | Possível Resposta                                                                           |
+| :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------ | --- |
+|   1    |                                                           Qual seu nome?                                                            | Pergunta discursiva                                                                         |
+|   2    |                                                           Qual sua idade                                                            | Pergunta discursiva                                                                         |     |
+|   3    |                                                           Qual seu gênero                                                           | [&emsp;] Masculino<br/>[&emsp;] Feminino<br/>[&emsp;] Não binário<br/>[&emsp;] Outro, qual? |
+|   4    |                                   Você acredita que o cenário ilustrado representa um caso real?                                    | [&emsp;] Sim</br>[&emsp;] Não                                                               |
+|   5    |                                 Qual a sugestão de alteração ou melhoria para o storyboard sugere?                                  | Pergunta discursiva                                                                         |
+|   6    | Esse segundo storyboard, você acredita que representa bem a situação de um cidadão preocupado com a situação do covid no município? | [&emsp;] Sim</br>[&emsp;] Não                                                               |
+|   7    |                                     A cena retrata bem a funcionalidade observada na situação?                                      | Pergunta discursiva                                                                         |
+
 <center>
 <figcaption>Tabela 1 - Roteiro para a entrevista de persona</figcaption>
 </center>
 
 ## Conclusão
+
 <p style="text-indent: 20px; text-align: justify"> 
 Com os resultados que serão obtidos neste documento, espera-se que todos possam entender a avaliação dos storyboards, de forma que seja possível ver as possíveis melhorias quando identificarmos os problemas, vontades necessidades e expectativas do usuários do site avaliado.
 </p>
@@ -76,10 +76,9 @@ Com os resultados que serão obtidos neste documento, espera-se que todos possam
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
-
 ## Versionamento
 
-| Versão | Data | Modificação | Autor |
-|:--:|:--:|:--:|:--:|
-| 1.0 | 10/09/2021 | Criação do Planejamento da Avaliação do Storyboard | Ítalo Serra |
-| 1.1 | 12/09/2021 | Revisão do documento | Gabriel Avelino (Revisor) |
+| Versão |    Data    |                    Modificação                     |           Autor           |
+| :----: | :--------: | :------------------------------------------------: | :-----------------------: |
+|  1.0   | 10/09/2021 | Criação do Planejamento da Avaliação do Storyboard |        Ítalo Serra        |
+|  1.1   | 12/09/2021 |                Revisão do documento                | Gabriel Avelino (Revisor) |

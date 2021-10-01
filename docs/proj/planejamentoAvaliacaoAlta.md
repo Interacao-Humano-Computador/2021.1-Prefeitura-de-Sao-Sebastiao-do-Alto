@@ -45,3 +45,4 @@ PREECE, J. ROGERS, Y. SHARP, H. <strong>Design de Interação. Além da interaç
 | Versão | Data       | Modificação          | Autor           |
 | ------ | ---------- | -------------------- | --------------- |
 | 1.0    | 30/09/2021 | Criação do Documento | Philipe Serafim |
+| 1.0    | 01/09/2021 | Revisão              | Pedro Lima      |
