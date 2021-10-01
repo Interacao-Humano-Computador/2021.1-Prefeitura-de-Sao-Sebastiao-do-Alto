@@ -92,6 +92,14 @@ E com base nas perguntas feitas no final da entrevista ele considerou que utiliz
 
 O link da entrevista pode ser acessado aqui [entrevista Matheus - Link](entrevistaMatheus.md)
 
+<p style="text-indent: 20px; text-align: justify">
+O engenheiro automotivo Matheus que foi entrevistado correspondeu a entrevista de forma agradável e sincera. Com a forma que foi conduzida a entrevista, ele não teve nenhuma dificuldade ao acessar os caminhos das tarefas desejadas e postas em práticas. Ele achou o protótipo de papel bem feito e eficiente em comparação ao site original. Não apresentou nenhuma sugestão de melhoria para o protótipo e para suas funcionalidades.
+</p>
+
+<p style="text-indent: 20px; text-align: justify">
+E realizando as perguntas finais, ele disse que consideraria utilizar o protótipo ao invés do site original por ser mais simples e eficiente na realização das suas tarefas. Ele disse também que ja tinha usado site de prefeitura anteriormente mas não chegou a conhecer o site da prefeitura do São Sebastião do Alto em específico, e que os padrões abordados pelo nosso protótipo seriam eficazes.
+</p>
+
 ## Conclusão
 
 <p style="text-indent: 20px; text-align: justify"> 
@@ -112,4 +120,5 @@ As entrevistas nos ajudaram a avaliar tanto as perguntas feitas quanto o nosso p
 | 1.0 | 30/09/2021 | Criação do método selecionado | Ítalo Serra |
 | 1.0 | 30/09/2021 | Adicionando teste piloto | Gabriel Avelino |
 | 1.1 | 01/10/2021 | Adicionando Entrevista Nathan | Ítalo Serra |
+| 1.1 | 01/10/2021 | Adicionando Entrevista Matheus | Gabriel Avelino |
 | 1.2 | 01/09/2021 | Revisão do documento | Ítalo Serra (Revisor) |
