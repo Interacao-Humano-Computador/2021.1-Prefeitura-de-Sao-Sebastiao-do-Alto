@@ -28,4 +28,4 @@
       - Entrevistas
         - [Entrevista Nathan](docs/proj/entrevistaNathan.md)
         - [Entrevista Matheus](docs/proj/entrevistaMatheus.md)
-        - [Avaliação](docs/proj/testePilotoBaixa.md)
+        - [Teste Piloto](docs/proj/testePilotoBaixa.md)
