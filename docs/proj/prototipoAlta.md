@@ -1,4 +1,4 @@
-# Protótipo de Baixa-fidelidade
+# Protótipo de Alta-fidelidade
 
 ## Introdução
 
