@@ -33,4 +33,4 @@
 
   - Protótipo de Alta-fidelidade
     - [Planejamento](docs/proj/planejamentoAvaliacaoAlta.md)
-    - [Relato de Resultado Alta](../../docs/proj/relatoResultadoProtAlta.md)
+    - [Relato de Resultado Alta](docs/proj/relatoResultadoProtAlta.md)

@@ -19,7 +19,7 @@ A metodologia escolhida para avaliar o protótipo de alta-fidelidade foi o <stro
   |  02   | Você sentiu-se completamente independente ao realizar as tarefas propostas?                                                     |
   |  03   | Vivenciou algum problema com de Design que dificultou ou impediu a realização da tarefa?                                        |
   |  04   | As funcionalidades do protótipo estão claras?                                                                                   |
-  |  05   | A função pode ser melhorada?                                                                                                    |
+  |  05   | O percurso pode ser melhorada?                                                                                                    |
   |  06   | Você possui alguma crítica ao protótipo? E sugestão?                                                                            |
 
 ### Escolher (choose) o método de avaliação
