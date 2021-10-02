@@ -60,7 +60,9 @@ Entrevistado: Pedro Lima como [Maria Tereza Borges](docs/proj/perfilDeUsuario?id
 |   5   | Não precisa, está bom do jeito atual                                          |
 |   6   | Achei as letras um pouco pequenas (menu de acessibilidade que ficou faltando) |
 
+## Resultado
 
+Enquanto os entrevistados realizavam suas tarefas durante o teste piloto, foi possível observar que ambos procuravam algo no protótipo e que não conseguiram encontrar. Durante a realização da entrervista, foi possível identificar os itens quem ambos procuravam: o primeiro entrevistado sentiu falta da barra de pesquisa enquanto o segundo buscava o menu de acessibilidade para aumentar o tamanho os itens no protótipo.
 
 ## Bibliografia
 
@@ -73,3 +75,5 @@ PREECE, J. ROGERS, Y. SHARP, H. <strong>Design de Interação. Além da interaç
 | Versão | Data       | Modificação          | Autor                        |
 | ------ | ---------- | -------------------- | ---------------------------- |
 | 1.0    | 02/09/2021 | Criação do Documento | Philipe Serafim e Pedro Lima |
+| 1.0    | 02/09/2021 | Adição das entrevistas (audio) | Philipe Serafim  |
+| 1.0    | 02/09/2021 | Adição do Resultado | Pedro Lima  |
