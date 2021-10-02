@@ -34,6 +34,7 @@ Entrevistado: Philipe Serafim como [Carlos Silva](docs/proj/perfilDeUsuario?id=p
 |   5   | Senti falta da barra de pesquisa para encurtar algum passos               |
 |   6   | Não possuo críticas e também não consigo imaginar algo a ser acrescentado |
 
+
 ### Entrevista 2 - Maria Tereza Borges
 
 Entrevistador: Philipe Serafim </br>
@@ -47,7 +48,6 @@ Entrevistado: Pedro Lima como [Maria Tereza Borges](docs/proj/perfilDeUsuario?id
 |   4   | Muito claras                                                                  |
 |   5   | Não precisa, está bom do jeito atual                                          |
 |   6   | Achei as letras um pouco pequenas (menu de acessibilidade que ficou faltando) |
-
 
 
 ## Bibliografia
