@@ -13,7 +13,7 @@ Assim, o objetivo dessa avaliação é analisar e verificar o nível de qualidad
 O método escolhido pelos integrantes do nosso grupo para a avaliação foi a entrevista, que pertence ao modo de investigação. Com isso, foi decido que seria necessário apenas um integrante do grupo para ser entrevistador ao decorrer de cada entrevista, e mais um integrante para estar presente no ambiente, com intuito de auxiliar a coleta de dados.
 </p>
 
-###  Participantes
+### Participantes
 
 <p style="text-indent: 20px; text-align: justify"> 
 Após um período de procura por voluntários a serem entrevistados acerca deste tema, o grupo apenas conseguiu encontrar 2 pessoas para serem entrevistadas, todos de acordo com o termo de consentimento, estabelecidos os cuidados éticos necessários. São:
@@ -33,7 +33,7 @@ A utilização do método do teste-piloto foi uma ótima escolha para vizualisar
 O teste piloto foi realizado entre os integrantes Gabriel Avelino e Ítalo Serra, enquanto que os outros integrantes Phillipe Serafim e Pedro Lima assistiram o teste piloto para fazer suas anotações.
 </p>
 
-- O teste-piloto pode ser acesso por aqui: [Teste Piloto - Link](testePilotoBaixa.md)
+- O teste-piloto pode ser acesso por aqui: [Teste Piloto - Link](docs/proj/testePilotoBaixa.md)
 
 Nesse processo, percebemos dois erros cometidos:
 
@@ -56,13 +56,13 @@ As entrevistas realizadas pelo grupo podem ser acessadas pelo guia lateral da p�
 Os resultados da entrevista estão aqui, visto que, a entrevista foi conduzida com o entrevistador perguntando ao usuário onde ele acessaria tais informações em relação ao site. Após essa etapa, ao final da entrevista perguntamos a perspectiva do entrevistado sobre o protótipo em relação ao site, com base nas perguntas abaixo:
 </p>
 
-|  ID   | Pergunta                                                                                                                  |
-| :---: | :------------------------------------------------------------------------------------------------------------------------ |
-|  P01  | Você encontrou alguma dificuldade na realização das tarefas? Se sim, qual?                                                |
-|  P02  | Comparando a realização da tarefa no site real e no protótipo, qual dos dois você escolheria para continuar utilizando?   |
-|  P03  | Você possui alguma crítica ao protótipo? E sugestão?                                                                      |
-|  P04  | Comparando o tempo levado para realizar as tarefas no site e no protótipo, qual passa o sentimento de ser mais eficiente? |
-|  P05  | Ao realizar as tarefas no protótipo, era possível manter o foco na tarefa?      
+| ID  | Pergunta                                                                                                                  |
+| :-: | :------------------------------------------------------------------------------------------------------------------------ |
+| P01 | Você encontrou alguma dificuldade na realização das tarefas? Se sim, qual?                                                |
+| P02 | Comparando a realização da tarefa no site real e no protótipo, qual dos dois você escolheria para continuar utilizando?   |
+| P03 | Você possui alguma crítica ao protótipo? E sugestão?                                                                      |
+| P04 | Comparando o tempo levado para realizar as tarefas no site e no protótipo, qual passa o sentimento de ser mais eficiente? |
+| P05 | Ao realizar as tarefas no protótipo, era possível manter o foco na tarefa?                                                |
 
 <center>
 <figcaption>Tabela 1: Perguntas feitas no final da entrevista</figcaption>
@@ -80,7 +80,7 @@ Segue os dados coletados em cada entrevista que foi realizada pelos membros do g
 
 ### Entrevista com o aluno Nathan Serra
 
-O link da entrevista pode ser acessado aqui [entrevista Nathan - Link](entrevistaNathan.md) 
+O link da entrevista pode ser acessado aqui [entrevista Nathan - Link](entrevistaNathan.md)
 
 <p style="text-indent: 20px; text-align: justify">
 O estudante Nathan que foi entrevistado correspondeu a entrevista de forma descontraída e gentil. Com a forma que foi conduzida a entrevista, ele não teve nenhuma dificuldade ao acessar os caminhos das tarefas desejadas e postas em práticas. Ele achou o protótipo de papel bem feito e eficiente em comparação ao site original. Não apresentou nenhuma sugestão de melhoria para o protótipo e para suas funcionalidades.
@@ -109,18 +109,17 @@ A partir do relato dos resultados da avaliação, o grupo pôde perceber que o p
 As entrevistas nos ajudaram a avaliar tanto as perguntas feitas quanto o nosso protótipo de papel, que será altamente melhorado na parte seguinte do nosso projeto: no planejamento da avaliação do protótipo de alta fidelidade (não somente em relação às funcionalidades, mas no layout e coisas correlacionadas, adicionando também as prováveis melhorias elicitadas pelos entrevistados).
 </p>
 
-
 ## Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 ## Versionamento
 
-| Versão | Data | Modificação | Autor |
-|--|--|--|--|
-| 1.0 | 30/09/2021 | Criação do documento | Gabriel Avelino |
-| 1.0 | 30/09/2021 | Criação do método selecionado | Ítalo Serra |
-| 1.0 | 30/09/2021 | Adicionando teste piloto | Gabriel Avelino |
-| 1.1 | 01/10/2021 | Adicionando Entrevista Nathan | Ítalo Serra |
-| 1.1 | 01/10/2021 | Adicionando Entrevista Matheus | Gabriel Avelino |
-| 1.2 | 01/09/2021 | Revisão do documento | Ítalo Serra (Revisor) |
+| Versão | Data       | Modificação                    | Autor                 |
+| ------ | ---------- | ------------------------------ | --------------------- |
+| 1.0    | 30/09/2021 | Criação do documento           | Gabriel Avelino       |
+| 1.0    | 30/09/2021 | Criação do método selecionado  | Ítalo Serra           |
+| 1.0    | 30/09/2021 | Adicionando teste piloto       | Gabriel Avelino       |
+| 1.1    | 01/10/2021 | Adicionando Entrevista Nathan  | Ítalo Serra           |
+| 1.1    | 01/10/2021 | Adicionando Entrevista Matheus | Gabriel Avelino       |
+| 1.2    | 01/09/2021 | Revisão do documento           | Ítalo Serra (Revisor) |

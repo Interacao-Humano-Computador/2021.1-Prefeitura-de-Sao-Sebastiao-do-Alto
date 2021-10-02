@@ -34,6 +34,7 @@ Por envolver o usuário diretamente, é necessário que ele nos dê seu consenti
 ### Avaliar (evaluate) e interpretar os dados
 O entrevistado deverá realizar os passos indicados para cada tarefa enquanto o avaliador observa, após isso a entrevista será realizada. Ao cruzar as informações observadas pelo avaliador e as respostas obtidas através do usuário, será possível identificar problemas que deverão ser corrigidos ou até mesmo sugestões de melhora no design.
 
+
 ## Bibliografia
 
 BARBOSA S. D. J.; SILVA B. S. <strong>Interação Humano-Computador</strong> ed. Elsevier, 2010.
