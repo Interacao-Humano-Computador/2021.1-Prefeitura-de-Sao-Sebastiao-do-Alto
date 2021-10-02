@@ -21,12 +21,16 @@ O resultado da avaliação será feito e coletado por meio da encenação das pe
 |  06   | Você possui alguma crítica ao protótipo? E sugestão?                                                                            |
 
 ### Entrevista 1 - Carlos Silva
+#### Apresentação e termo de consentimento
 
 Entrevistador: Pedro Lima </br>
-Entrevistado: Phelipe Serafim como [Carlos Silva](docs/proj/perfilDeUsuario?id=persona-primária.md)
+Entrevistado: Philipe Serafim como [Carlos Silva](docs/proj/perfilDeUsuario?id=persona-primária.md)
+[Apresentação Carlos Silva](../../assets/audio/carlos-silva_apresentacao.mp3  ':include :audio')
 
+---
+#### Relato do teste-piloto e entrevista
 
-
+[Entrevista Carlos Silva](../../assets/audio/carlos-silva_entrevista.mp3  ':include :audio')
 |  id   | Respostas                                                                 |
 | :---: | :------------------------------------------------------------------------ |
 |   1   | Sim, consegui identificar os caminhos sem nenhum problema                 |
@@ -38,14 +42,14 @@ Entrevistado: Phelipe Serafim como [Carlos Silva](docs/proj/perfilDeUsuario?id=p
 
 ### Entrevista 2 - Maria Tereza Borges
 #### Apresentação e termo de consentimento
-Entrevistador: Phelipe Serafim </br>
+Entrevistador: ielipe Serafim </br>
 Entrevistado: Pedro Lima como [Maria Tereza Borges](docs/proj/perfilDeUsuario?id=persona-secundária.md)
 
 [Apresentação Maria Tereza](../../assets/audio/maria-tereza_apresentacao.mp3  ':include :audio')
 
 ---
 #### Relato do teste-piloto e entrevista
-[Apresentação Maria Tereza](../../assets/audio/maria-tereza_entrevista.mp3  ':include :audio')
+[Entrevista Maria Tereza](../../assets/audio/maria-tereza_entrevista.mp3  ':include :audio')
 
 |  id   | Respostas                                                                     |
 | :---: | :---------------------------------------------------------------------------- |
