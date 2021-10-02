@@ -17,13 +17,13 @@ O resultado da avaliação será feito e coletado por meio da encenação das pe
 |  02   | Você sentiu-se completamente independente ao realizar as tarefas propostas?                                                     |
 |  03   | Vivenciou algum problema com de Design que dificultou ou impediu a realização da tarefa?                                        |
 |  04   | As funcionalidades do protótipo estão claras?                                                                                   |
-|  05   | A função pode ser melhorada?                                                                                                    |
+|  05   | O percurso pode ser melhorada?                                                                                                    |
 |  06   | Você possui alguma crítica ao protótipo? E sugestão?                                                                            |
 
 ### Entrevista 1 - Carlos Silva
 
 Entrevistador: Pedro Lima </br>
-Entrevistado: Phelipe Serafim como [Carlos Silva](docs/proj/perfilDeUsuario?id=persona-primária.md)
+Entrevistado: Philipe Serafim como [Carlos Silva](docs/proj/perfilDeUsuario?id=persona-primária.md)
 
 |  id   | Respostas                                                                 |
 | :---: | :------------------------------------------------------------------------ |
@@ -36,7 +36,7 @@ Entrevistado: Phelipe Serafim como [Carlos Silva](docs/proj/perfilDeUsuario?id=p
 
 ### Entrevista 2 - Maria Tereza Borges
 
-Entrevistador: Phelipe Serafim </br>
+Entrevistador: Philipe Serafim </br>
 Entrevistado: Pedro Lima como [Maria Tereza Borges](docs/proj/perfilDeUsuario?id=persona-secundária.md)
 
 |  id   | Respostas                                                                     |
