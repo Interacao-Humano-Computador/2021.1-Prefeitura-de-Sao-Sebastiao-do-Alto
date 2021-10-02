@@ -25,6 +25,8 @@ O resultado da avaliação será feito e coletado por meio da encenação das pe
 Entrevistador: Pedro Lima </br>
 Entrevistado: Phelipe Serafim como [Carlos Silva](docs/proj/perfilDeUsuario?id=persona-primária.md)
 
+
+
 |  id   | Respostas                                                                 |
 | :---: | :------------------------------------------------------------------------ |
 |   1   | Sim, consegui identificar os caminhos sem nenhum problema                 |
@@ -35,9 +37,15 @@ Entrevistado: Phelipe Serafim como [Carlos Silva](docs/proj/perfilDeUsuario?id=p
 |   6   | Não possuo críticas e também não consigo imaginar algo a ser acrescentado |
 
 ### Entrevista 2 - Maria Tereza Borges
-
+#### Apresentação e termo de consentimento
 Entrevistador: Phelipe Serafim </br>
 Entrevistado: Pedro Lima como [Maria Tereza Borges](docs/proj/perfilDeUsuario?id=persona-secundária.md)
+
+[Apresentação Maria Tereza](../../assets/audio/maria-tereza_apresentacao.mp3  ':include :audio')
+
+---
+#### Relato do teste-piloto e entrevista
+[Apresentação Maria Tereza](../../assets/audio/maria-tereza_entrevista.mp3  ':include :audio')
 
 |  id   | Respostas                                                                     |
 | :---: | :---------------------------------------------------------------------------- |
