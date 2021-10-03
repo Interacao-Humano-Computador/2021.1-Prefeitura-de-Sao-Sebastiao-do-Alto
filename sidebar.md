@@ -34,3 +34,7 @@
   - Protótipo de Alta-fidelidade
     - [Planejamento](docs/proj/planejamentoAvaliacaoAlta.md)
     - [Avaliação](docs/proj/relatoResultadoProtAlta.md)
+
+  - Verificação
+    - [Introdução](docs/proj/verificacao.md)
+    - [Perfil de usuário](docs/proj/verificacao-perfilUsuarios.md)
