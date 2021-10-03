@@ -37,4 +37,4 @@
 
   - Verificação
     - [Introdução](docs/proj/verificacao.md)
-    - 
+    - [Perfil de usuário](docs/proj/verificacao-perfilUsuarios.md)
