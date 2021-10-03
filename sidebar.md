@@ -38,3 +38,5 @@
   - Verificação
     - [Introdução](docs/proj/verificacao.md)
     - [Perfil de usuário](docs/proj/verificacao-perfilUsuarios.md)
+    - [Princípios Gerais de Projeto](docs/proj/verificacaoPrincipiosGeraisDeProjeto.md)
+    - [Análises de Tarefas](docs/proj/verificacaoAnalisesDeTarefas.md)
