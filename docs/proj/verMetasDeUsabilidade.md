@@ -17,13 +17,13 @@ Atraves de uma inspeção, pretendemos realizar uma sinalização sobre o docume
 ## <a>Inspeção</a>
 
 <p style="text-indent: 20px; text-align: justify"> 
-Para esta etapa, nosso grupo irá realizar uma verificação de cada metas de usabilidade que foi definida anteriormente. E o foco neste documento é evetuar a análise das respostas listadas nos cenários. 
+Para esta etapa, nosso grupo irá realizar uma verificação de cada metas de usabilidade que foi definida anteriormente. E o foco será evetuar uma análise sobre o documento das Metas de Usabilidade. 
 </p>
 
 </center>
 
 ### Resultados Gerais:
-|Número|Questão|Resposta|
+|Id|Tópico|Verficação|
 |--|--|--|
 |1|A ortografia do documento está correta?|<p>&#10004</p>|
 |2|O documento possui uma introdução sobre a sua finalidade?|<p>&#10004</p>|
@@ -39,7 +39,7 @@ Para esta etapa, nosso grupo irá realizar uma verificação de cada metas de us
 <center>
 
 ### Resultados Específicos:
-|Número|Questão|Resposta|
+|Id|Tópico|Verficação|
 |--|--|--|
 |1|A análise da meta de usabilidade referente a eficácia do site, foi feita de forma coerente?|<p>&#10004</p>|
 |2|A análise da meta de usabilidade referente a eficiência do site, foi feita de forma coerente?|<p>&#10004</p>|
