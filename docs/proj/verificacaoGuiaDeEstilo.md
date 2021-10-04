@@ -22,9 +22,11 @@ Para esta etapa, nosso grupo irá realizar uma verificação de cada guia de est
 
 Autor e inspetor: Ítalo Serra
 
-<center>
 
 ### Resultados Gerais:
+
+<center>
+
 |Id|Tópico|Verficação|
 |:-|:-:|:-:|
 |1|A ortografia do documento está correta?|✔|
@@ -38,9 +40,11 @@ Autor e inspetor: Ítalo Serra
 
 </center>
 
-<center>
 
 ### Resultados Específicos:
+
+<center>
+
 |Número|Questão|Resposta|
 |--|--|--|
 |1|No guia de estilo os resultados de análise foi analisado de forma coerente?|✔|
