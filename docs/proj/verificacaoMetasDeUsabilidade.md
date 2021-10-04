@@ -10,7 +10,7 @@ Este documento tem a finalidade de fazer o processo de Verificação das Metas d
 ## <a>Metodologia</a>
 
 <p style="text-indent: 20px; text-align: justify">
-Atraves de uma inspeção, pretendemos realizar uma sinalização sobre o documento das Metas de Usabilidade para determinar se o tópico foi atendido com (&#10004) ou não foi atendido com (&#10006).
+Atraves de uma inspeção, pretendemos realizar uma sinalização sobre o documento das Metas de Usabilidade para determinar se o tópico foi atendido com (✔) ou não foi atendido com (✖).
 </p>
 
 
@@ -20,16 +20,18 @@ Atraves de uma inspeção, pretendemos realizar uma sinalização sobre o docume
 Para esta etapa, nosso grupo irá realizar uma verificação de cada metas de usabilidade que foi definida anteriormente. E o foco será evetuar uma análise sobre o documento das Metas de Usabilidade. 
 </p>
 
-</center>
+Autor e inspetor: Ítalo Serra
+
+<center>
 
 ### Resultados Gerais:
 |Id|Tópico|Verficação|
 |--|--|--|
-|1|A ortografia do documento está correta?|<p>&#10004</p>|
-|2|O documento possui uma introdução sobre a sua finalidade?|<p>&#10004</p>|
-|3|A liguagem do documento é compreensível e simples?|<p>&#10004</p>|
-|5|As informações necessárias estão presentes no documento ?|<p>&#10004</p>|
-|6|No documento possui referências do conteúdo?|<p>&#10004</p>|
+|1|A ortografia do documento está correta?| ✔ |
+|2|O documento possui uma introdução sobre a sua finalidade?| ✔ |
+|3|A liguagem do documento é compreensível e simples?| ✔ |
+|5|As informações necessárias estão presentes no documento ?| ✔ |
+|6|No documento possui referências do conteúdo?| ✔ |
 
 
 <figcaption>Tabela 1 - Verificação Geral das Metas de Usabilidade</figcaption>
@@ -41,12 +43,12 @@ Para esta etapa, nosso grupo irá realizar uma verificação de cada metas de us
 ### Resultados Específicos:
 |Id|Tópico|Verficação|
 |--|--|--|
-|1|A análise da meta de usabilidade referente a eficácia do site, foi feita de forma coerente?|<p>&#10004</p>|
-|2|A análise da meta de usabilidade referente a eficiência do site, foi feita de forma coerente?|<p>&#10004</p>|
-|3|A análise da meta de usabilidade referente a segurança do site, foi feita de forma coerente?|<p>&#10004</p>|
-|4|A análise da meta de usabilidade referente a utilidade do site, foi feita de forma coerente?|<p>&#10004</p>|
-|5|A análise da meta de usabilidade referente a ser fácil de aprender (learnability) do site, foi feita de forma coerente?|<p>&#10004</p>|
-|6|A análise da meta de usabilidade referente a ser fácil de lembrar como usar (memorability) do site, foi feita de forma coerente?|<p>&#10006</p>|
+|1|A análise da meta de usabilidade referente a eficácia do site, foi feita de forma coerente?| ✔|
+|2|A análise da meta de usabilidade referente a eficiência do site, foi feita de forma coerente?| ✔ |
+|3|A análise da meta de usabilidade referente a segurança do site, foi feita de forma coerente?| ✔ |
+|4|A análise da meta de usabilidade referente a utilidade do site, foi feita de forma coerente?| ✔ |
+|5|A análise da meta de usabilidade referente a ser fácil de aprender (learnability) do site, foi feita de forma coerente?| ✔ |
+|6|A análise da meta de usabilidade referente a ser fácil de lembrar como usar (memorability) do site, foi feita de forma coerente?| ✖ |
 
 <figcaption>Tabela 2 - Verificação Específica das Metas de Usabilidade</figcaption>
 
