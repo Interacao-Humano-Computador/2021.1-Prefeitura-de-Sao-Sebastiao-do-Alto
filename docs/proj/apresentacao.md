@@ -21,6 +21,8 @@
 
 # Relato dos resultados da avaliação do protótipo de baixa fidelidade e Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade - 02/10/2021
 
+<iframe width="560" height="560" src="https://www.youtube.com/embed/kVic2QZXg6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Verificação dos artefatos - 04/10/2021
 
 <iframe width="560" height="560" src="https://www.youtube.com/embed/qU61exmIst4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
