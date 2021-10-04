@@ -40,3 +40,5 @@
     - [Perfil de usuário](docs/proj/verificacao-perfilUsuarios.md)
     - [Princípios Gerais de Projeto](docs/proj/verificacaoPrincipiosGeraisDeProjeto.md)
     - [Análises de Tarefas](docs/proj/verificacaoAnalisesDeTarefas.md)
+    - [Guia de Estilo](docs/proj/verificacaoGuiaDeEstilo.md)
+    - [Metas de Usabilidade](docs/proj/verificacaoMetasDeUsabilidade.md)
