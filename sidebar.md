@@ -42,3 +42,6 @@
     - [Análises de Tarefas](docs/proj/verificacaoAnalisesDeTarefas.md)
     - [Guia de Estilo](docs/proj/verificacaoGuiaDeEstilo.md)
     - [Metas de Usabilidade](docs/proj/verificacaoMetasDeUsabilidade.md)
+    - [Storyboard](docs/proj/verificacaoStoryboard.md)
+    - [Protótipo de Baixa fidelidade](docs/proj/verificacaoPrototipoBaixa.md)
+    - [Protótipo de Alta fidelidade](docs/proj/verificacaoPrototipoAlta.md)
