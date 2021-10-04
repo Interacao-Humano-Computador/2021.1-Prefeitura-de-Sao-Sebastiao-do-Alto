@@ -22,9 +22,11 @@ Para esta etapa, nosso grupo irá realizar uma verificação de cada metas de us
 
 Autor e inspetor: Ítalo Serra
 
-<center>
 
 ### Resultados Gerais:
+
+<center>
+
 |Id|Tópico|Verficação|
 |--|--|--|
 |1|A ortografia do documento está correta?| ✔ |
@@ -38,9 +40,10 @@ Autor e inspetor: Ítalo Serra
 
 </center>
 
+### Resultados Específicos:
+
 <center>
 
-### Resultados Específicos:
 |Id|Tópico|Verficação|
 |--|--|--|
 |1|A análise da meta de usabilidade referente a eficácia do site, foi feita de forma coerente?| ✔|

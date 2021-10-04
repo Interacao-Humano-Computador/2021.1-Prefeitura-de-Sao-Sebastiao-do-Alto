@@ -21,9 +21,10 @@ Para esta etapa, nosso grupo irá realizar uma verificação de cada processo na
 </p>
 Autor e Inspetor: Gabriel Avelino
 
+### Resultados Gerais:
+
 <center>
 
-### Resultados Gerais:
 |Id|Tópico|Verficação|
 |--|--|--|
 |1|A ortografia do documento está correta?| ✔ |
@@ -38,9 +39,10 @@ Autor e Inspetor: Gabriel Avelino
 
 </center>
 
+### Resultados Específicos:
+
 <center>
 
-### Resultados Específicos:
 |Id|Tópico|Verficação|
 |--|--|--|
 |1|O protótipo atende às tarefas levantadas na Análise de Tarefas?| ✔|
