@@ -46,9 +46,9 @@ Nesse processo, percebemos dois erros cometidos:
 As entrevistas realizadas pelo grupo podem ser acessadas pelo guia lateral da página, ou pelos links abaixo.
 </p>
 
-- Entrevista com o aluno Nathan: [Entrevista Nathan](entrevistaNathan.md)
+- Entrevista com o aluno Nathan: [Entrevista Nathan](docs/proj/entrevistaNathan.md)
 
-- Entrevista com o engenheiro Matheus: [Entrevista Matheus](entrevistaMatheus.md)
+- Entrevista com o engenheiro Matheus: [Entrevista Matheus](docs/proj/entrevistaMatheus.md)
 
 ## Relato dos resultados
 
