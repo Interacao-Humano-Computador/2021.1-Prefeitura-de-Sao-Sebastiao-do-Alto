@@ -26,10 +26,9 @@
   - Protótipo de Baixa-fidelidade
     - [Planejamento](docs/proj/planejamentoAvalicaoBaixa.md)
     - [Avaliação](docs/proj/relatoResultadoProtBaixa.md)
-      - Entrevistas
-        - [Entrevista Nathan](docs/proj/entrevistaNathan.md)
-        - [Entrevista Matheus](docs/proj/entrevistaMatheus.md)
-        - [Teste Piloto](docs/proj/testePilotoBaixa.md)
+    - [Entrevista Nathan](docs/proj/entrevistaNathan.md)
+    - [Entrevista Matheus](docs/proj/entrevistaMatheus.md)
+    - [Teste Piloto](docs/proj/testePilotoBaixa.md)
 
   - Protótipo de Alta-fidelidade
     - [Planejamento](docs/proj/planejamentoAvaliacaoAlta.md)
