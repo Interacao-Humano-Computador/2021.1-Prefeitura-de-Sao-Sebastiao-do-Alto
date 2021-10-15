@@ -34,21 +34,21 @@ Através da inspeção, cada item do checklist será avaliado em e sinalizado co
 ### Documento
 | Tópico | Resultado |
 | :----: | :-------: |
-|   01   |     ✅     |
-|   02   |     ✅     |
-|   03   |     ✅     |
-|   04   |     ✅     |
-|   05   |     ✅     |
-|   06   |     ✅     |
+|   01   |     ✔     |
+|   02   |     ✔     |
+|   03   |     ✔     |
+|   04   |     ✔     |
+|   05   |     ✔     |
+|   06   |     ✔     |
 <figcaption>Tabela 3 - Situação do documento</figcaption>
 
 ### Personas
 | Tópico | Persona Primária | Persona Secundária | Persona Terciária | Anti-persona |
 | :----: | :--------------: | :----------------: | :---------------: | :----------: |
-|   01   |        ✅         |         ✅          |         ✅         |      ✅       |
-|   02   |        ✅         |         ✅          |         ✅         |      ✅       |
-|   03   |        ✅         |         ✅          |         ✅         |      ✅       |
-|   04   |        ✅         |         ✅          |         ✅         |      ✅       |
+|   01   |        ✔         |         ✔          |         ✔         |      ✔       |
+|   02   |        ✔         |         ✔          |         ✔         |      ✔       |
+|   03   |        ✔         |         ✔          |         ✔         |      ✔       |
+|   04   |        ✔         |         ✔          |         ✔         |      ✔       |
 
 <figcaption>Tabela 4 - Situação das personas</figcaption>
 
