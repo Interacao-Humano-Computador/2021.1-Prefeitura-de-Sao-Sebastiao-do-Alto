@@ -27,12 +27,12 @@ Autor e Inspetor: Pedro Lima.
 
 | Número | Resposta |
 | : -- : | : -- :   |
-| 1      | Sim      |
-| 2      | Sim      |
-| 3      | Sim      |
-| 4      | Sim      |
-| 5      | Sim      |
-| 6      | Sim      |
+| 1      | ✔      |
+| 2      | ✔      |
+| 3      | ✔      |
+| 4      | ✔      |
+| 5      | ✔      |
+| 6      | ✔      |
 
 # Resultados
 
