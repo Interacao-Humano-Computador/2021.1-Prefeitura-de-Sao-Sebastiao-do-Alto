@@ -52,8 +52,8 @@ Depois de passado todas essa informações, desejamos que você fale em alto e b
 
 ### Roteiro de Perguntas
 
-| Número |                                                              Pergunta                                                               | Possível Resposta                                                                           |
-| :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------ | --- |
+| Número |                                                                  Pergunta                                                               | Possível Resposta                                                                           |
+| :----: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------ | 
 |   1    |                                                           Qual seu nome?                                                            | Pergunta discursiva                                                                         |
 |   2    |                                                           Qual sua idade                                                            | Pergunta discursiva                                                                         |     |
 |   3    |                                                           Qual seu gênero                                                           | [&emsp;] Masculino<br/>[&emsp;] Feminino<br/>[&emsp;] Não binário<br/>[&emsp;] Outro, qual? |
