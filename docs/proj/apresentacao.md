@@ -26,3 +26,7 @@
 # Verificação dos artefatos - 04/10/2021
 
 <iframe width="560" height="560" src="https://www.youtube.com/embed/qU61exmIst4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Projeto final - 20/10/2021
+
+<iframe width="560" height="560" src="https://www.youtube.com/embed/XTldkrXbQ7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
